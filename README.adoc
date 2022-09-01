@@ -1,4 +1,4 @@
-:link_programacao: drive.google.com/LINK_DA_PROGRAMACAO
+:link_programacao: images/programacao.jpeg
 :youtube: youtube.com/LINK_DO_CANAL
 :inicio_inscricao: 13/10/2021
 :termino_inscricao: 17/10/2021
@@ -63,7 +63,7 @@ video::Yh_-Sc1nIkA[youtube,width=640,height=480]
 
 == PROGRAMAÇÃO
 
-Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://{link_programacao}[Download da programação.]
+Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. link:{link_programacao}[Download da programação.]
 
 - Oferta de palestras com temas atuais e relevantes;
 - Uso de mesa-redonda para promoção de debates;
