@@ -3,6 +3,7 @@
 :inicio_inscricao: 13/10/2021
 :termino_inscricao: 17/10/2021
 :sigla_evento: SASPI 2022
+:tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 
 :icons: font
 :allow-uri-read:
@@ -39,7 +40,7 @@ endif::[]
 
 image::folder-geral.jpeg[width=640,height=380,align=center]
 
-A I Semana Acadêmica de Sistemas para Internet - {sigla_evento} acontecerá nos dias 24 de outubro a 27 de outubro de 2022, tendo como tema: "O Mercado de trabalho e as tecnologias emergentes pós pandemia".
+A I Semana Acadêmica de Sistemas para Internet - {sigla_evento} acontecerá nos dias 24 de outubro a 27 de outubro de 2022, tendo como tema: "{tema_evento}".
 
 Organizada pela Coordenações dos cursos de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
 
