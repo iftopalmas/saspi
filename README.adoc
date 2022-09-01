@@ -74,7 +74,6 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 
 === Segunda-feira (24/10/2021) 
 
-[%header]
 |===
 | TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
@@ -85,13 +84,12 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
 .2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
-|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
+|20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
 === Terça-feira (25/10/2021) 
 
-[%header]
 |===
 | TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
@@ -102,13 +100,12 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
 .2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
-|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
+|20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
 === Quarta-feira (26/10/2021) 
 
-[%header]
 |===
 | TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
@@ -119,13 +116,12 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
 .2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
-|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
+|20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
 === Quinta-feira (27/10/2021) 
 
-[%header]
 |===
 | TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
@@ -136,7 +132,7 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
 .2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
-|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
+|20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
