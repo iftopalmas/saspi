@@ -1,3 +1,4 @@
+// Variáveis com informações sobre o evento
 :link_programacao: images/programacao.jpeg
 :youtube: youtube.com/LINK_DO_CANAL
 :inicio_inscricao: 13/10/2021
@@ -5,6 +6,8 @@
 :sigla_evento: SASPI 2022
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 
+
+// Configurações do site
 :icons: font
 :allow-uri-read:
 //caminho padrão para imagens
