@@ -7,6 +7,7 @@
 :termino_evento: 27 de outubro de 2022
 :sigla_evento: SASPI 2022
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
+:contato_comissao: caadalovelace254@gmail.com 
 
 
 // Configurações do site
@@ -199,12 +200,12 @@ Você pode emitir seu certificado  https://si.ifto.edu.br/evento/certificados/[a
 
 NOTE: Informe seu CPF no sistema para gerar o certificado.
 
-Em caso de dúvida, envie e-mail para seminf.palmas@ifto.edu.br.
+Em caso de dúvida, envie e-mail para {contato_comissao}.
 
 
 == COMISSÃO ORGANIZADORA
 
-NOTE: CONTATO: seminf.palmas@ifto.edu.br
+NOTE: CONTATO: {contato_comissao}
 
 |===
 | *Nome*​ | *Função*
