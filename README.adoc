@@ -1,24 +1,23 @@
+:link_programacao: drive.google.com/LINK_DA_PROGRAMACAO
+:youtube: youtube.com/LINK_DO_CANAL
+:inicio_inscricao: 13/10/2021
+:termino_inscricao: 17/10/2021
+
 :icons: font
 :allow-uri-read:
 //caminho padrão para imagens
 :imagesdir: images
 :numbered:
-:figure-caption: Figura
-:doctype: book
-
-//gera apresentacao
-//pode se baixar os arquivos e add no diretório
-:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
 
 //Estilo do Sumário
-:toc2: 
+ifndef::env-github[:toc2:]
+
 //após os : insere o texto que deseja ser visível
 :toc-title: Sumário
 :figure-caption: Figura
 //numerar titulos
 :numbered:
 :source-highlighter: highlightjs
-:icons: font
 :chapter-label:
 :doctype: book
 :lang: pt-BR
@@ -35,28 +34,24 @@ ifdef::env-github,env-browser[]
 :warning-caption: :warning:
 endif::[]
 
-= II SEMANA ACADÊMICA DE INFORMÁTICA - SEMINF 2021
-
-== 5G E OS IMPACTOS NA ATUAÇÃO DO PROFISSIONAL DE TI
+= I SEMANA ACADÊMICA DE SISTEMAS PARA INTERNET - SASPI 2021
 
 image::folder-geral.jpeg[width=640,height=380,align=center]
 
-A II Semana Acadêmica de Informática - SEMINF 2021 acontecerá nos dias 18 de outubro a 22 de outubro de 2021, na modalidade virtual, tendo como tema: 5G e os Impactos na Atuação do Profissional de TI.
+A I Semana Acadêmica de Sistemas para Internet - SASPI 2022 acontecerá nos dias 24 de outubro a 27 de outubro de 2022, tendo como tema: "O Mercado de trabalho e as tecnologias emergentes pós pandemia".
 
 Organizada pela Coordenações dos cursos de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
 
 A semana acadêmica é um evento que possibilita a integração entre pessoas. A troca de informações promovidas pelo evento através da participação de profissionais técnicos, docentes e discentes da área de informática, favorecem de forma significativa a formação do futuro profissional de informática. Acredita-se que por meio de várias perspectivas adquiridas pela experiências dos participantes, é possível que haja um enriquecimento complementar na formação escolar do discente da área de informática.
 
-*Objetivo Geral*
+== Objetivo Geral
 
 O principal objetivo da semana acadêmica é proporcionar um ambiente de aprendizado complementar contribuindo na formação dos discentes.
 
-*Objetivos Específicos*
+== Objetivos Específicos
 
 - Promover a integração entre os discentes;
-
 - Possibilitar a reciclagem e adição de novos conhecimentos;
-
 - Disseminar os cursos de informática oferecidos pelo IFTO campus Palmas.
 
 == BEM VINDO AO IFTO CAMPUS PALMAS
@@ -68,97 +63,80 @@ video::Yh_-Sc1nIkA[youtube,width=640,height=480]
 
 == PROGRAMAÇÃO
 
-Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://drive.google.com/file/d/1kEH2Yyv2e71Zulw6mJoQZo371FeyPbck/view?usp=sharing[Download da programação.]
+Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://{link_programacao}[Download da programação.]
 
 - Oferta de palestras com temas atuais e relevantes;
 - Uso de mesa-redonda para promoção de debates;
 - Oferta de minicursos visando o complemento/atualização de currículo;
 - Desafios de programação e momentos de jogos promovendo a integração escolar.
 
-NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - Semana Acadêmica de Informática - Campus Palmas]
+NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Internet - Campus Palmas]
 
-=== Segunda-feira (18/10/2021) 
-
-[%header]
-|===
-|TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
-
-.2+|MANHÃ|09:00 às 10:00| Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
-|10:00 às 11:00|Palestra: As 7 Maravilhas da Inteligência Artificial - A Revolução do Mundo Moderno.(Ricardo Rocha - Flai Inteligência Artifical) | https://youtu.be/WfiX-XzZFdI[Ver transmissão]
-
-.2+|TARDE|14:00 às 18:00| Minicurso 1: Visualização de dados com Metabase (Rodrigo Porto)    |https://youtu.be/ftR9oDfrfq0[Ver transmissão]
-|16:00 às 18:00|Minicurso 2: Automação de processos em servidores com Shell Script (Prof. Dr. Claudio Monteiro)| https://youtu.be/Vl0qcczJn9I[Ver transmissão]
-
-.2+|NOITE|19:30 às 20:30| Palestra: Certificações de Infraestrutura de TI, o que são onde vivem e como se alimentam. (Gustavo Kalau)  |https://youtu.be/VqWc6b03ub0[Ver transmissão]
-|20:40 às 21:40|Palestra: Mercado de TI (Ricardo Nascimento - CRP Tecnologia)| https://youtu.be/HbdsY6PDhN0[Ver transmissão]|
-
-|===
-
-=== Terça-feira (19/10/2021) 
+=== Segunda-feira (24/10/2021) 
 
 [%header]
 |===
-|TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
+| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.2+|MANHÃ|08:30 às 10:00| Mesa-redonda: Robótica Móvel no Contexto Tecnológico Atual |https://youtu.be/6NRhWsY6Iro[Ver transmissão]
-|10:10 às 11:10|Palestra: Cibersegurança, LGPD e 5G: desafios e oportunidades (Cleórbete Santos) | https://youtu.be/UdMnqb0Za7c[Ver transmissão]
+.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+|10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.3+|TARDE |14:00 às 16:00| Minicurso 1:  HTML e CSS (Paulo Gerson)    |https://youtu.be/xhdj-EGqQoU[Ver transmissão]
-| 14:00 às 16:00|Minicurso 2: Desenvolvendo Personas: Uma abordagem prática (Prof. Dra. Liliane Felix)|https://youtu.be/WHPBHg5Zo0c[Ver transmissão] |
-16:00 às 18:00|Minicurso 3: Python (intermediário) |https://youtu.be/7vq8wcRcN4w[Ver transmissão]
+.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+|16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+|NOITE|19:30 às 21:00| Mesa-redonda: 5G, 6G e a verificação de possíveis problemas relativos à implementações futuras |https://youtu.be/OQCgCpUy9-Q[Ver transmissão]
-|21:00 às 22:00|Palestra: O mercado de games: tendencies e oportunidades ( Silvano Malfatti) | https://youtu.be/4nHW5ja3nAU[Ver transmissão]
-
+.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
-=== Quarta-feira (20/10/2021) 
+=== Terça-feira (25/10/2021) 
 
 [%header]
 |===
-|TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
+| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-|MANHÃ|08:30 às 11:30|Desafio de Programação|https://youtu.be/bPOKfS2I24g[Ver transmissão]
-|TARDE|14:30 às 17:30|Desafio de Programação|https://youtu.be/UyNJ4mbq7FM[Ver transmissão]
-|NOITE|19:30 às 22:30|Desafio de Programação|https://youtu.be/FVyU-8dF87U[Ver transmissão]
+.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+|10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
+
+.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+|16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
+
+.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
-=== Quinta-feira (21/10/2021) 
+=== Quarta-feira (26/10/2021) 
 
 [%header]
 |===
-|TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
+| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.3+|MANHÃ |08:30 às 11:30 | Gincana *Free Fire* | https://youtu.be/A_fTbI2ay3I[Ver transmissão]
-|08:30 às 11:30|Gincana *LOL* Sala 1| https://youtu.be/C7rEZzew3Gs[Ver transmissão]
-|08:30 às 11:30|Gincana *LOL* Sala 2 | https://youtu.be/vv28uY-v-GQ[Ver transmissão]
+.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+|10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.3+|TARDE |14:30 às 17:30| Gincana *Free Fire* |https://youtu.be/wvozsDS10tc[Ver transmissão]
-|14:30 às 17:30|Gincana *LOL* Sala 1| https://youtu.be/EjOYXebN-_0[Ver transmissão]
-|14:30 às 17:30|Gincana *LOL* Sala 2| https://youtu.be/ICw_U8BY2GM[Ver transmissão]
+.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+|16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.3+|NOITE|19:30 às 22:30 | Gincana *Free Fire* |https://youtu.be/DjnU0ZEiwmA[Ver transmissão]
-|19:30 às 22:30|Gincana *LOL* Sala 1 | https://youtu.be/iDKhkAwwcts[Ver transmissão]
-|19:30 às 22:30|Gincana *LOL* Sala 2 | https://youtu.be/vlewwi2geBg[Ver transmissão]
+.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
-=== Sexta-feira (22/10/2021) 
+=== Quinta-feira (27/10/2021) 
 
 [%header]
 |===
-|TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
+| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.2+|MANHÃ|08:30 às 09:30| Palestra: Como me tornei um Hacker e entrei no Hall da Fama de Segurança do Google (Rafael Sousa) |https://youtu.be/_ZNRgA0V-rE[Ver transmissão]
-|09:40 às 11:40|Minicurso: Desenvolvimento Mobile com tecnologias No Code e Low Code. (Talles Martins) |https://youtu.be/XWCZ_TZrs3s[Ver transmissão]
+.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+|10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+|TARDE|14:30 às 15:30| Palestra: Controle de versão usando o Git  (Raiane Alves) |https://youtu.be/u7HsEiOeNeM[Ver transmissão]
-|15:40 às 17:40|Minicurso: Introdução à carreira de certificação HUAWEI: Uma visão geral da área de infra estrutura. (Prof. Dr. Claudio Monteiro) | https://youtu.be/wEvbsCsc7vk[Ver transmissão]
+.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+|16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-|NOITE|19:30 às 21:30|Apresentação de Projetos| https://youtu.be/y18ieqSXTHo[Ver transmissão]
-
+.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+|20:40 às 21:40 | Palestra: XXXXXXX CRP Tecnologia. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
 
@@ -166,29 +144,24 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 
 [%header]
 |===
-|MINICURSO|PRÉ-REQUISITO
-|Automação de processos em servidores com Shell Script|https://drive.google.com/drive/u/0/folders/1ri5ks00xsWobE86WICmbBdVJKUBRthSp[Baixar o Linux_CORE_GREDES.ova] e https://youtu.be/sIaKK3_vSLM[assistir ao vídeo]
+|MINICURSO | PRÉ-REQUISITOS
+| XXXXXXX | XXXXXXX
 
-|Visualização de dados com Metabase|Links:
-https://www.portaltransparencia.gov.br/download-de-dados/viagens[Dados para trabalho];
-https://www.metabase.com/start/oss/jar.html[Metabase];
-https://www.java.com/pt-BR/[Java 7/8/11];
-https://www.postgresql.org/download/[PostgreSQL] e
-https://dbeaver.io/download/[DBeaver Community].
+| XXXXXXX | XXXXXXX
 
-|Python - Nível intermediário|https://code.visualstudio.com/download[VSCode] com plugin Python 3.9 e conhecimento em lógica de programação.
+| XXXXXXX | XXXXXXX
 
-|Desenvolvimento Mobile com tecnologias No Code e Low Code.|Conta Google
+| XXXXXXX | XXXXXXX
 
 |===
 
 == INSCRIÇÕES
 
-*Período de inscrição*: 13/10/2021 a  17/10/2021.
+*Período de inscrição*: {inicio_inscricao} a {termino_inscricao}.
 
-Faça sua inscrição https://si.ifto.edu.br/evento/inscricao/1092/[AQUI].
+Faça sua inscrição https://si.ifto.edu.br/evento/inscricao/1267[AQUI].
 
-IMPORTANT: Não serão aceitas inscrições após o dia 17/10/2021.
+IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
 === Inscrições para Gincana de Jogos Eletrônicos 
 
@@ -231,14 +204,14 @@ Em caso de dúvida, envie e-mail para seminf.palmas@ifto.edu.br.
 NOTE: CONTATO: seminf.palmas@ifto.edu.br
 
 |===
-| *Servidor/Estudante*​ | *Função*
-| Fagno Alves Fonseca|Docente / Presidente
-|Ana Paula Alves Guimarães|Docente / Membro
-|Claudio de Castro Monteiro|Docente / Membro
-|Edwardes Amaro Galhardo|Docente / Membro
-|Francisco das Chagas de Sousa|Docente / Membro
-|Gerson Pesente Focking|Docente / Membro
-|Vinícius de Miranda Rios|Docente / Membro
-|Marlio Kleber Venancio Gomes | Docente / Membro
-|Aline Reis Figueredo|Discente / Membro
+| *Nome*​ | *Função*
+| Manoel Campos da Silva Filho | Docente / Presidente da Comissão Organizadora
+| Aline Reis Figueredo | Discente / Presidente do Centro Acadêmico
+| Fagno Alves Fonseca | Docente / Membro
+| Ana Paula Alves Guimarães | Docente / Membro
+| Mauro Henrique Lima de Boni | Docente / Membro
+| Claudio de Castro Monteiro | Docente / Membro
+| Edwardes Amaro Galhardo | Docente / Membro
+| Francisco das Chagas de Sousa | Docente / Membro
+| Marlio Kleber Venancio Gomes | Docente / Membro
 |===
