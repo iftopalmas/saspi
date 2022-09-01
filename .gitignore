@@ -1,2 +1,5 @@
 # Os arquivos HTML são gerados no branch gh-pages
 *.html
+
+# Arquivos do macOS
+.DS_Store
