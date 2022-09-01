@@ -208,7 +208,7 @@ NOTE: CONTATO: seminf.palmas@ifto.edu.br
 
 |===
 | *Nome*​ | *Função*
-| Manoel Campos da Silva Filho | Docente / Presidente da Comissão Organizadora
+| https://bio.link/manoelcampos[Manoel Campos da Silva Filho] | Docente / Presidente da Comissão Organizadora
 | Aline Reis Figueredo | Discente / Presidente do Centro Acadêmico
 | Fagno Alves Fonseca | Docente / Membro
 | Ana Paula Alves Guimarães | Docente / Membro
