@@ -1,6 +1,6 @@
 // Variáveis com informações sobre o evento
 :link_programacao: images/programacao.jpeg
-:youtube: youtube.com/LINK_DO_CANAL
+:youtube: youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
 :inicio_inscricao: 13/10/2022
 :termino_inscricao: 17/10/2022
 :inicio_evento: 24
@@ -8,6 +8,7 @@
 :sigla_evento: SASPI 2022
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 :contato_comissao: caadalovelace254@gmail.com 
+:contato_comissao2: saspi0101@gmail.com 
 
 
 // Configurações do site
@@ -200,12 +201,13 @@ Você pode emitir seu certificado  https://si.ifto.edu.br/evento/certificados/[a
 
 NOTE: Informe seu CPF no sistema para gerar o certificado.
 
-Em caso de dúvida, envie e-mail para {contato_comissao}.
+Em caso de dúvida, envie e-mail para {contato_comissao2}.
 
 
 == COMISSÃO ORGANIZADORA
 
 NOTE: CONTATO: {contato_comissao}
+
 
 |===
 | *Nome*​ | *Função*
