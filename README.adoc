@@ -9,6 +9,7 @@
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
+:instagram: https://instagram.com/caspi_ifto
 
 
 // Configurações do site
@@ -206,7 +207,8 @@ Em caso de dúvida, envie e-mail para {contato_comissao2}.
 
 == COMISSÃO ORGANIZADORA
 
-NOTE: CONTATO: {contato_comissao}
+- Email: {contato_comissao}
+- Instagram: {instagram}
 
 
 |===
