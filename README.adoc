@@ -85,15 +85,15 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 === Segunda-feira (24/10/2021) 
 
 |===
-| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
+| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+| 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
 |10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+| 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+| 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
 |20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
@@ -101,15 +101,15 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 === Terça-feira (25/10/2021) 
 
 |===
-| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
+| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+| 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
 |10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+| 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+| 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
 |20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
@@ -117,15 +117,15 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 === Quarta-feira (26/10/2021) 
 
 |===
-| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
+| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+| 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
 |10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+| 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+| 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
 |20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
@@ -135,13 +135,13 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 |===
 | TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 
-.2+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
+| MANHÃ | 09:00 às 10:00 | Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
 |10:00 às 11:00|Palestra: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
+| TARDE | 14:00 às 18:00 | Minicurso 1: XXXXXXX. Palestrante - Instituição |https://youtu.be/XXXXXXX[Ver transmissão]
 |16:00 às 18:00|Minicurso 2: XXXXXXX. Palestrante - Instituição | https://youtu.be/XXXXXXX[Ver transmissão]
 
-.2+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
+| NOITE | 19:30 às 20:30 | Palestra: XXXXXXX. Palestrante - Instituição. |https://youtu.be/XXXXXXX[Ver transmissão]
 |20:40 às 21:40 | Palestra: XXXXXXX. Palestrante - Instituição. | https://youtu.be/XXXXXXX[Ver transmissão]|
 
 |===
