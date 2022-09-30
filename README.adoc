@@ -173,28 +173,39 @@ IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
 ==== Free Fire
 
-Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/vnCKLFReKdGkwMXf6[inscrição Free Fire]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
+Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/vnCKLFReKdGkwMXf6[inscrição Free Fire]. O formulário para inscrição estará disponível após o dia 17/10 após as instruções informadas na abertura do evento.
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
 Informações importantes:
 
-- Limitado a 48 inscrições;
+- Limitado a 48 jogadores por turno;
 - Será considerado campeão o jogador com maior pontuação em 5 rodadas.
 
 ==== LOL
 
-Para participar da gincana LOL, o grupo (5 jogadores titulares, 5 reservas) deve fazer a inscrição neste link: https://forms.gle/qwHU2Cpc6LECi7aF7[inscrição equipe LOL]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.  
+Para participar da gincana LOL, o grupo (5 jogadores titulares, 5 reservas) deve fazer a inscrição neste link: https://forms.gle/qwHU2Cpc6LECi7aF7[inscrição equipe LOL]. O formulário para inscrição estará disponível após o dia 17/10 após as instruções informadas na abertura do evento.  
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
 Informação importante (https://drive.google.com/file/d/16uPP9VofY-oaYkG2_0FA88yKAhNovfH_/view?usp=sharing[Download do regulamento]):
 
-- Inscrições limitada a 4 equipes.
+- Inscrições limitada a 4 equipes por turno.
 
 As rodadas serão conforme apresenta a imagem a seguir.
 
 image::LOL-grupos-up.png[width=640,,align=center]
+
+==== Xadrez
+
+Para participar da gincana de Xadrez, deve fazer a inscrição neste link: https://forms.gle/pYYj9gz95CfyXn5R8[inscrição jogos de Xadrez]. O formulário para inscrição estará disponível após o dia 17/10 após as instruções informadas na abertura do evento.  
+
+A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
+
+Informação importante (https://drive.google.com/file/d/1H3hCkdufiD9gznNV7nJJSIXclyIpcNbb/view?usp=sharing[Download do regulamento]):
+
+- Inscrições limitada a 30 vagas por turno.
+
 
 == CERTIFICADO
 
