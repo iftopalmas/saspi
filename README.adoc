@@ -173,7 +173,7 @@ IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
 ==== Free Fire
 
-Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/vnCKLFReKdGkwMXf6[inscrição Free Fire]. O formulário para inscrição estará disponível após o dia 17/10 após as instruções informadas na abertura do evento.
+Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/vnCKLFReKdGkwMXf6[inscrição Free Fire]. O formulário para inscrição estará disponível após o dia {termino_inscricao} após as instruções informadas na abertura do evento.
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
@@ -184,7 +184,7 @@ Informações importantes:
 
 ==== LOL
 
-Para participar da gincana LOL, o grupo (5 jogadores titulares, 5 reservas) deve fazer a inscrição neste link: https://forms.gle/qwHU2Cpc6LECi7aF7[inscrição equipe LOL]. O formulário para inscrição estará disponível após o dia 17/10 após as instruções informadas na abertura do evento.  
+Para participar da gincana LOL, o grupo (5 jogadores titulares, 5 reservas) deve fazer a inscrição neste link: https://forms.gle/qwHU2Cpc6LECi7aF7[inscrição equipe LOL]. O formulário para inscrição estará disponível após o dia {termino_inscricao} após as instruções informadas na abertura do evento.  
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
@@ -198,7 +198,7 @@ image::LOL-grupos-up.png[width=640,,align=center]
 
 ==== Xadrez
 
-Para participar da gincana de Xadrez, deve fazer a inscrição neste link: https://forms.gle/pYYj9gz95CfyXn5R8[inscrição jogos de Xadrez]. O formulário para inscrição estará disponível depois do dia 17/10, após as instruções informadas na abertura do evento.  
+Para participar da gincana de Xadrez, deve fazer a inscrição neste link: https://forms.gle/pYYj9gz95CfyXn5R8[inscrição jogos de Xadrez]. O formulário para inscrição estará disponível depois do dia {termino_inscricao}, após as instruções informadas na abertura do evento.  
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
