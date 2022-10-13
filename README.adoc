@@ -10,6 +10,7 @@
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
 :instagram: https://instagram.com/caspi_ifto
+:site_inscricao: https://si.ifto.edu.br/evento/inscricao/1267
 
 
 // Configurações do site
@@ -165,7 +166,7 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 
 *Período de inscrição*: {inicio_inscricao} a {termino_inscricao}.
 
-Faça sua inscrição https://si.ifto.edu.br/evento/inscricao/1267[AQUI].
+Faça sua inscrição link:{site_inscricao}[AQUI].
 
 IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
