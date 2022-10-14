@@ -156,9 +156,9 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão]
 |14:00 às 14:45| Horario Vago | {youtube}[Ver transmissão]
 |14:55 às 15:40| Oficina: Contratos Eletrônicos: Como Elaborar um Contrato Eletrônico na Prática. Palestrante - Flávia Paulo Oliveira | {youtube}[Ver transmissão]
 |15:50 às 16:35 | Palestra: Blockchain e Smart Contracts. Palestrante - Flávia Paulo Oliveira. |{youtube}[Ver transmissão]
-| 16:45 às 17:30 | Horario Vago | {youtube}[Ver transmissão]|
+| 16:45 às 17:30 | Horario Vago | {youtube}[Ver transmissão]
 || NOITE|
-|19:00 às 22:30 | Minicurso: Programação Funcional em Java 18. Palestrante - Manoel Campus. |{youtube}[Ver transmissão]|
+|19:00 às 22:30 | Minicurso: Programação Funcional em Java 18. Palestrante - Manoel Campus.| {youtube}[Ver transmissão]|
 
 |===
 
