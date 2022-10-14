@@ -1,6 +1,6 @@
 // Variáveis com informações sobre o evento
 :link_programacao: images/programacao.jpeg
-:youtube: youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
+:youtube: https://youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
 :inicio_inscricao: 14/10/2022
 :termino_inscricao: 28/10/2022
 :inicio_evento: 24
