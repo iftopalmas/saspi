@@ -189,7 +189,7 @@ IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 ==== Free Fire
 
 Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/vnCKLFReKdGkwMXf6[inscrição Free Fire]. Siga as instruções do
-formnulario de inscrição.
+formulario de inscrição.
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.gg/jGCMKJN6Nx[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
@@ -201,7 +201,7 @@ Informação importante (https://drive.google.com/file/d/1KzKelvs_Vslx0M2STOctFJ
 
 ==== LOL
 
-Para participar da gincana LOL, o grupo (5 jogadores titulares, 1 reservas) deve fazer a inscrição neste link: https://forms.gle/qwHU2Cpc6LECi7aF7[inscrição equipe LOL]. Siga as instruções do formnulario de inscrição.  
+Para participar da gincana LOL, o grupo (5 jogadores titulares, 1 reservas) deve fazer a inscrição neste link: https://forms.gle/qwHU2Cpc6LECi7aF7[inscrição equipe LOL]. Siga as instruções do formulario de inscrição.  
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.gg/jGCMKJN6Nx[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
@@ -215,7 +215,7 @@ image::LOL-grupos-up.png[width=640,,align=center]
 
 ==== Valorant
 
-Para participar da gincana Valorant, o grupo (5 jogadores titulares, 1 reservas) deve fazer a inscrição neste link: https://forms.gle/cRbFHRqZ2Yvd2mNy6[inscrição equipe Valorant]. Siga as instruções do formnulario de inscrição.  
+Para participar da gincana Valorant, o grupo (5 jogadores titulares, 1 reservas) deve fazer a inscrição neste link: https://forms.gle/cRbFHRqZ2Yvd2mNy6[inscrição equipe Valorant]. Siga as instruções do formulario de inscrição.  
 
 A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.gg/jGCMKJN6Nx[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
 
@@ -226,7 +226,7 @@ Informação importante (https://drive.google.com/file/d/16uPP9VofY-oaYkG2_0FA88
 ==== Xadrez
 
 Para participar da gincana de Xadrez, deve fazer a inscrição neste link: https://forms.gle/pYYj9gz95CfyXn5R8[inscrição jogos de Xadrez]. Siga as instruções do
-formnulario de inscrição.  
+formulario de inscrição.  
 
 Informação importante (https://drive.google.com/file/d/107gvshxi1XNjF0YtHvr6CGXeQvxsLBcT/view?usp=sharing[Download do regulamento]):
 
@@ -234,7 +234,7 @@ Informação importante (https://drive.google.com/file/d/107gvshxi1XNjF0YtHvr6CG
 
 ==== Tênis de Mesa
 
-Para participar da gincana de Tenis de Mesa, deve fazer a inscrição neste link: https://forms.gle/cGukqd3rTJR3izGZ7[inscrição jogos de Tênis de Mesa].Siga as instruções do formnulario de inscrição.  
+Para participar da gincana de Tenis de Mesa, deve fazer a inscrição neste link: https://forms.gle/cGukqd3rTJR3izGZ7[inscrição jogos de Tênis de Mesa].Siga as instruções do formulario de inscrição.  
 
 Informação importante (https://drive.google.com/file/d/1-UIdnsPkny4tsyCORBRc0QlcpO06TRZc/view?usp=sharing[Download do regulamento]):
 
