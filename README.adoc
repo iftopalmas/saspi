@@ -137,16 +137,16 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão]
 | 08:30 às 10:10 | Palestra: JDK 8 ao 18: Java como Você Nunca Viu. Palestrante: Manoel Campos |{youtube}[Ver transmissão]
 |10:20 às 12:00| Minicurso: Análise de Arquivos Executáveis Binários Linux(ELF): Uma Visão da Estrutura e sua Execução. Palestrante - Helder Cleber | {youtube}[Ver transmissão]
 || TARDE|
-| 14:00 às 17:30 | GINCANA |{youtube}[Ver transmissão]
+| 14:00 às 17:30 | GINCANA - L.O.L, Valorant, Free-Fire, Tênis de Mesa, Xadres|{youtube}[Ver transmissão]
 || NOITE|
-| 19:00 às 22:30 | GINCANA |{youtube}[Ver transmissão]|
+| 19:00 às 22:30 | GINCANA - L.O.L, Valorant, Free-Fire, Tênis de Mesa, Xadres|{youtube}[Ver transmissão]|
 
 |===
 
 === Quinta-feira (27/10/2022) 
 
 |===
-| TURNO | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
+| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 || MANHÃ|
 | 08:30 às 09:15 | Palestra: Amazon Web Services. Palestrante: XXXX | {youtube}[Ver transmissão] 
 | 09:25 às 10:10|Palestra: Processo de Desenvolvimeto de Software ERP. Palestrante - João Paulo - MaxData | {youtube}[Ver transmissão]
