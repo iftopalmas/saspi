@@ -90,13 +90,13 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 ||MANHÃ|
 | 08:30 às 09:15 | Abertura |{youtube}[Ver transmissão]
-|09:25 às 10:10|Palestra: Google Cloud. Palestrante - Fernando Jorge Ebrahim | {youtube}[Ver transmissão]
+|09:25 às 10:10|Palestra:  Reflexões sobre a formação técnica na área de TI. Palestrante - Claudio de Castro Monteiro | {youtube}[Ver transmissão]
 | 10:20 às 11:05 | Palestra: Tocantins Inteligência Artificial: Serviço de Atendimento ao Cidadão baseado em IA. Palestrante - Vagner Cassol |{youtube}[Ver transmissão]
 |11:15 às 12:00| Palestra: O Mercado de Trabalho e as Profissões do Futuro Startups e Ecossistemas de Inovação. Palestrante - Álvaro Nunes Prestes |{youtube}[Ver transmissão]
 ||TARDE|
 | 14:00 às 15:40 | Minicurso: Flutter: Tudo que Você Precisa Saber Para Criar seu App. Palestrante - Gustavo Figueira Lopes. |{youtube}[Ver transmissão]
 | 15:50 às 16:35 | Minicurso: Conceitos Básicos de HTML e CSS para Iniciantes. Palestrante - Paulo Gerson. |{youtube}[Ver transmissão]
-| 16:45 às 17:30 | Horario Vago |{youtube}[Ver transmissão]
+| 16:45 às 17:30 | Palestra: Migração de Dados do Sistema Acadêmico IFTO. Palestrante - Kleyton Matos Moreira |{youtube}[Ver transmissão]
 ||NOITE|
 | 19:00 às 19:45 | Palestra: 5G: Zero-Touch Networks. Palestrante - Douglas chagas. |{youtube}[Ver transmissão]
 | 19:55 às 20:40 | Palestra: Apresentando os Princípios do design 3D em Ferramentas de Modelagem de Ambientes Virtuais. Palestrante - Erick Henrique Silva Góes. |{youtube}[Ver transmissão]
@@ -114,13 +114,12 @@ NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Inter
 | 10:20 às 11:05 | Palestra: Noções de Computação Forence e do Trabalho de Perito criminal. Palestrante - Bruno Soares Carvalho |{youtube}[Ver transmissão]
 | 11:15 às 12:00| Palestra: Mulheres no Mercado de Trabalho de TI -- Do Zero Ao Incrivel. Palestrante - Tayse Virgulino Ribeiro | {youtube}[Ver transmissão]
 ||Tarde|
-| 14:00 às 14:45 | Horario Vago |{youtube}[Ver transmissão]
-| 14:55 às 15:40 | Horario Vago | {youtube}[Ver transmissão]
+| 14:00 às 15:40 | Minicurso: Monitoramento de Redes com Zabbix 6. Palestrante - Stéfani Carol Gonçalves. |{youtube}[Ver transmissão]
 | 15:50 às 16:35 | Minicurso: Conceitos Básicos de HTML e CSS para Iniciantes. Palestrante - Paulo Gerson. |{youtube}[Ver transmissão]
 | 16:45 às 17:30 | Palestra: Segurança Corporativa: Gestão de Vulnerabilidades e de Riscos. Palestrante - Talles Alldelamsims da Silva Lopes. |{youtube}[Ver transmissão]
 ||NOITE|
 | 19:00 às 19:45 | Palestra: Como se Preparar Para o Mercado de Trabalho: Do Estágio ao Nubank. Palestrante - Amanda Nunes Louzada - Nubank. |{youtube}[Ver transmissão]
-| 19:55 às 20:40 | Palestra: XXXX  Palestrante - Tiago Peroza. |{youtube}[Ver transmissão]
+| 19:55 às 20:40 | Palestra: Compliance e Auditoria em TI  Palestrante - Tiago Peroza. |{youtube}[Ver transmissão]
 | 20:50 às 21:35 | Palestra: Mercado de Trabalho e o Novo Perfil Proficional
 Palestrante - Alexandre Costa. |{youtube}[Ver transmissão]
 | 21:45 às 22:30 | Palestra: Novas Tecnologias de Comunicação Durante e Pós Pandemia
@@ -148,7 +147,7 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão]
 |===
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO
 || MANHÃ|
-| 08:30 às 09:15 | Palestra: Amazon Web Services. Palestrante: XXXX | {youtube}[Ver transmissão] 
+| 08:30 às 09:15 | Palestra: Amazon Web Services. Palestrante: Marcus André | {youtube}[Ver transmissão] 
 | 09:25 às 10:10|Palestra: Processo de Desenvolvimeto de Software ERP. Palestrante - João Paulo - MaxData | {youtube}[Ver transmissão]
 | 10:20 às 11:05|Palestra: Os Desafios para Proteção de Redes Computacionais. Palestrante - Danilo Silva - IDCorp | {youtube}[Ver transmissão]
 | 11:15 às 12:00 | Workshope: User Experience. Palestrante - Estela Kanashiki |{youtube}[Ver transmissão]
@@ -156,8 +155,10 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão]
 |14:00 às 14:45| Horario Vago | {youtube}[Ver transmissão]
 |14:55 às 15:40| Oficina: Contratos Eletrônicos: Como Elaborar um Contrato Eletrônico na Prática. Palestrante - Flávia Paulo Oliveira | {youtube}[Ver transmissão]
 |15:50 às 16:35 | Palestra: Blockchain e Smart Contracts. Palestrante - Flávia Paulo Oliveira. |{youtube}[Ver transmissão]
-| 16:45 às 17:30 | Horario Vago | {youtube}[Ver transmissão]
+| 16:45 às 17:30 | Minicurso: Aplicação Web com Shell Script. Palestrante - Claudio de Castro Monteiro | {youtube}[Ver transmissão]
 || NOITE|
+|19:00 às 20:40 | Mesa Redonda: Segurança Cibernética e Virtual. Palestrante - Claudio de Castro Monteiro, Vinícius de Miranda Rios, Carlos Adriano, Ricardo Loureiro Soares, Talles Martins Moura .| {youtube}[Ver transmissão]
+|20:50 às 22:30 | Mesa Redonda: Cenário atual do mercado tocantinense de TI: Necessidades e Evoluções. Palestrantes - Darley Passarin, Danilo Silva.| {youtube}[Ver transmissão] 
 |19:00 às 22:30 | Minicurso: Programação Funcional em Java 18. Palestrante - Manoel Campus.| {youtube}[Ver transmissão]|
 
 |===
@@ -213,16 +214,6 @@ Informação importante (https://drive.google.com/file/d/16uPP9VofY-oaYkG2_0FA88
 As rodadas serão conforme apresenta a imagem a seguir.
 
 image::LOL-grupos-up.png[width=640,,align=center]
-
-==== Valorant
-
-Para participar da gincana Valorant, o grupo (5 jogadores titulares, 1 reservas) deve fazer a inscrição neste link: https://forms.gle/cRbFHRqZ2Yvd2mNy6[inscrição equipe Valorant]. Siga as instruções do formulario de inscrição.  
-
-A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, {discordjogos}[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ {discordDown}[deste link]. ‌
-
-Informação importante (https://drive.google.com/file/d/16uPP9VofY-oaYkG2_0FA88yKAhNovfH_/view?usp=sharing[Download do regulamento]):
-
-- Inscrições limitada a 4 equipes por turno.
 
 ==== Xadrez
 
