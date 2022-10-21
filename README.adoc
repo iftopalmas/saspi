@@ -200,6 +200,14 @@ As rodadas serão conforme apresenta a imagem a seguir.
 
 image::LOL-grupos-up.png[width=640,,align=center]
 
+==== Assault Cube
+
+Para participar da gincana Assault cube, deve fazer a inscrição neste link: https://forms.gle/cRbFHRqZ2Yvd2mNy6[inscrição para Assault cube]. Siga as instruções do formulario de inscrição.  
+
+A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.gg/jGCMKJN6Nx[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
+
+- Inscrições limitada para maiores de 18 anos.
+
 ==== Xadrez
 
 Para participar da gincana de Xadrez, deve fazer a inscrição neste link: https://forms.gle/pYYj9gz95CfyXn5R8[inscrição jogos de Xadrez]. Siga as instruções do
