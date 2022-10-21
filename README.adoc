@@ -163,21 +163,6 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão]
 
 |===
 
-=== Pré-requisitos para Minicursos
-
-[%header]
-|===
-|MINICURSO | PRÉ-REQUISITOS
-| XXXXXXX | Sem Pré-Requisito Definido
-
-| XXXXXXX | Sem Pré-Requisito Definido
-
-| XXXXXXX | Sem Pré-Requisito Definido
-
-| XXXXXXX | Sem Pré-Requisito Definido
-
-|===
-
 == INSCRIÇÕES
 
 *Período de inscrição*: {inicio_inscricao} a {termino_inscricao}.
