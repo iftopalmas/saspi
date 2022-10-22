@@ -169,6 +169,8 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão]
 
 Faça sua inscrição link:{site_inscricao}[AQUI].
 
+IMPORTANT: Favor se inscrever também na área de https://iftopalmas.github.io/saspi/#_inscri%C3%A7%C3%B5es_para_gincana_de_jogos_eletr%C3%B4nicos[Jogos].
+
 IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
 === Inscrições para Gincana de Jogos Eletrônicos 
