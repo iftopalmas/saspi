@@ -50,7 +50,7 @@ endif::[]
 
 = I SEMANA ACADÊMICA DE SISTEMAS PARA INTERNET - {sigla_evento}
 
-image::folder-geral.jpeg[width=640,height=380,align=center]
+image::substituir-o-arquivo--folder-geral.jpeg[width=640,height=380,align=center]
 
 A I Semana Acadêmica de Sistemas para Internet - {sigla_evento} acontecerá nos dias {inicio_evento} a {termino_evento}, tendo como tema: **{tema_evento}**.
 
