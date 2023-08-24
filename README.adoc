@@ -1,16 +1,16 @@
 // Variáveis com informações sobre o evento
 :link_programacao: images/programacao.jpeg
 :youtube: https://youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
-:inicio_inscricao: 14/10/2022
-:termino_inscricao: 28/10/2022
+:inicio_inscricao: 24/10/2023
+:termino_inscricao: 27/10/2023
 :inicio_evento: 24
-:termino_evento: 27 de outubro de 2022
+:termino_evento: 27 de outubro de 2023
 :sigla_evento: SASPI 2022
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
 :instagram: https://instagram.com/caspi_ifto
-:site_inscricao: https://si.ifto.edu.br/evento/inscricao/1267
+:site_inscricao: 
 :discordJogos: https://discord.gg/nqadaxn3Rz
 :discordDown: https://discord.com/download
 :localiftoauditorio: https://goo.gl/maps/q6ikoPm8pPLBdYRn7
