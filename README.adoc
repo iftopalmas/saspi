@@ -5,7 +5,7 @@
 :termino_inscricao: 27/10/2023
 :inicio_evento: 24
 :termino_evento: 27 de outubro de 2023
-:sigla_evento: SASPI 2022
+:sigla_evento: SASPI 2023
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
