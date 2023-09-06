@@ -265,11 +265,18 @@ Em caso de dúvida, envie e-mail para {contato_comissao2}.
 | *Nome*​ | *Função*
 | https://bio.link/manoelcampos[Manoel Campos da Silva Filho] | Docente / Presidente da Comissão Organizadora
 | Aline Reis Figueredo | Discente / Presidente do Centro Acadêmico
-| Fagno Alves Fonseca | Docente / Membro
 | Ana Paula Alves Guimarães | Docente / Membro
-| Mauro Henrique Lima de Boni | Docente / Membro
-| Claudio de Castro Monteiro | Docente / Membro
-| Edwardes Amaro Galhardo | Docente / Membro
-| Francisco das Chagas de Sousa | Docente / Membro
+| Liliane Carvalho Félix | Docente / Membro
 | Marlio Kleber Venancio Gomes | Docente / Membro
+| Mauro Henrique Lima de Boni | Docente / Membro
+| Gerson Pesente Focking | Docente / Membro
+| Simone Dutra Martins Guarda | Docente / Membro
+| Vinícius Oliveira Costa | Docente / Membro
+| Vinícius de Miranda Rios | Docente / Membro
+| Amanda de Souza Araujo | Discente / Membro
+| Aléxia Lara Freitas | Discente / Membro
+| Dannilo Martins Gonçalves | Discente / Membro
+| Elionay Figueiredo Lima | Discente / Membro
+| Maria Vitoria Braga | Discente / Membro
+| Rauner Lucas Alves Amaral | Discente / Membro
 |===
