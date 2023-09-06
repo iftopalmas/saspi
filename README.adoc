@@ -96,16 +96,16 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 |===
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
-||MANHÃ||
+4+|MANHÃ
 | 08:30 às 09:15 | Abertura |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 |09:25 às 10:10|Palestra:  Reflexões sobre a formação técnica na área de TI. Palestrante - Claudio de Castro Monteiro | {youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 10:20 às 11:05 | Palestra: Tocantins Inteligência Artificial: Serviço de Atendimento ao Cidadão baseado em IA. Palestrante - Vagner Cassol |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 |11:15 às 12:00| Palestra: O Mercado de Trabalho e as Profissões do Futuro Startups e Ecossistemas de Inovação. Palestrante - Álvaro Nunes Prestes |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-||TARDE||
+4+|TARDE
 | 14:00 às 15:40 | Minicurso: Flutter: Tudo que Você Precisa Saber Para Criar seu App. Palestrante - Gustavo Figueira Lopes. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
 | 15:50 às 16:35 | Minicurso: Conceitos Básicos de HTML e CSS para Iniciantes. Palestrante - Paulo Gerson. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
 | 16:45 às 17:30 | Palestra: Migração de Dados do Sistema Acadêmico IFTO. Palestrante - Kleyton Matos Moreira |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-||NOITE||
+4+|NOITE
 | 19:00 às 19:45 | Palestra: 5G: Zero-Touch Networks. Palestrante - Douglas chagas. |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 19:55 às 20:40 | Palestra: Apresentando os Princípios do design 3D em Ferramentas de Modelagem de Ambientes Virtuais. Palestrante - Erick Henrique Silva Góes. |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 20:50 às 22:30 | Palestra: Hackeando Aplicativos Android. Palestrante - Rafael Sousa. |{youtube}[Ver transmissão] ou https://www.youtube.com/c/HackingnaWeb?app=desktop[Canal Palestrante] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.|
@@ -116,16 +116,16 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 |===
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
-||MANHÃ||
+4+|MANHÃ
 | 08:30 às 09:15 | Palestra: A liderança pós Pandemia Palestrante - Rafael Henrique Amaral - MaxData |{youtube}[Ver transmissão]  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 09:25 às 10:10| Palestra: Qual caminho Percorrer para o Sucesso Profissional. Palestrante - Danilo Silva - IDCorp | {youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 10:20 às 11:05 | Palestra: Noções de Computação Forence e do Trabalho de Perito criminal. Palestrante - Bruno Soares Carvalho |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 11:15 às 12:00| Palestra: Mulheres no Mercado de Trabalho de TI -- Do Zero Ao Incrivel. Palestrante - Tayse Virgulino Ribeiro | {youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-||Tarde||
+4+|TARDE
 | 14:00 às 15:40 | Minicurso: Monitoramento de Redes com Zabbix 6. Palestrante - Stéfani Carol Gonçalves. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
 | 15:50 às 16:35 | Minicurso: Conceitos Básicos de HTML e CSS para Iniciantes. Palestrante - Paulo Gerson. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
 | 16:45 às 17:30 | Palestra: Segurança Corporativa: Gestão de Vulnerabilidades e de Riscos. Palestrante - Talles Alldelamsims da Silva Lopes. |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-||NOITE||
+4+|NOITE
 | 19:00 às 19:45 | Palestra: Como se Preparar Para o Mercado de Trabalho: Do Estágio ao Nubank. Palestrante - Amanda Nunes Louzada - Nubank. |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 19:55 às 20:40 | Palestra: Compliance e Auditoria em TI  Palestrante - Tiago Peroza. |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 20:50 às 21:35 | Palestra: Mercado de Trabalho e o Novo Perfil Proficional
@@ -140,12 +140,12 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão] | {localift
 
 |===
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
-||MANHÃ||
+4+|MANHÃ
 | 08:30 às 10:10 | Palestra: JDK 8 ao 18: Java como Você Nunca Viu. Palestrante: Manoel Campos |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 |10:20 às 12:00| Minicurso: Análise de Arquivos Executáveis Binários Linux(ELF): Uma Visão da Estrutura e sua Execução. Palestrante - Helder Cleber | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
-|| TARDE||
+4+|TARDE
 | 14:00 às 17:30 | GINCANA - L.O.L, AssaultCube, Free-Fire, Tênis de Mesa, Xadrez|{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Local de encontro Auditorio central IFTO-palmas.
-|| NOITE||
+4+|NOITE
 | 19:00 às 22:30 | GINCANA - L.O.L, AssaultCube, Free-Fire, Tênis de Mesa, Xadrez|{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Local de encontro Auditorio central IFTO-palmas.|
 
 |===
@@ -154,17 +154,17 @@ Palestrante - Arinaldo Araujo da Silva. |{youtube}[Ver transmissão] | {localift
 
 |===
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
-|| MANHÃ||
+4+|MANHÃ
 | 08:30 às 09:15 | Palestra: Amazon Web Services. Palestrante: Marcus André | {youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 09:25 às 10:10|Palestra: Processo de Desenvolvimeto de Software ERP. Palestrante - João Paulo - MaxData | {youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 10:20 às 11:05|Palestra: Os Desafios para Proteção de Redes Computacionais. Palestrante - Danilo Silva - IDCorp | {youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 11:15 às 12:00 | Workshope: User Experience. Palestrante - Estela Kanashiki |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-||TARDE||
+4+|TARDE
 |14:00 às 14:45| Horario Vago |  Não será transmitido.|
 |14:55 às 15:40| Oficina: Contratos Eletrônicos: Como Elaborar um Contrato Eletrônico na Prática. Palestrante - Flávia Paulo Oliveira | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
 |15:50 às 16:35 | Palestra: Blockchain e Smart Contracts. Palestrante - Flávia Paulo Oliveira. |{youtube}[Ver transmissão] | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 | 16:45 às 17:30 | Minicurso: Aplicação Web com Shell Script. Palestrante - Claudio de Castro Monteiro | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
-|| NOITE||
+4+|NOITE
 |19:00 às 20:40 | Mesa Redonda: Segurança Cibernética e Virtual. Palestrante - 
 Claudio de Castro Monteiro (Mediador)
 - Vinícius de Miranda Rios,
