@@ -52,7 +52,7 @@ endif::[]
 
 = {nome_completo_evento}
 
-image::substituir-o-arquivo--folder-geral.jpeg[width=640,height=380,align=center]
+image::folder-geral.jpg[width=640,height=380,align=center]
 
 A {nome_completo_evento} acontecerá nos dias {inicio_evento} a {termino_evento}, tendo como tema: **{tema_evento}**.
 
