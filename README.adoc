@@ -3,9 +3,11 @@
 :youtube: https://youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
 :inicio_inscricao: 24/10/2023
 :termino_inscricao: 27/10/2023
-:inicio_evento: 24
-:termino_evento: 27 de outubro de 2023
+:inicio_evento: 21
+:termino_evento: 24 de novembro de 2023
+:numero_evento: II
 :sigla_evento: SASPI 2023
+:nome_completo_evento: {numero_evento} Semana Acadêmica de Sistemas para Internet - {sigla_evento}
 :tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
@@ -48,11 +50,11 @@ ifdef::env-github,env-browser[]
 :warning-caption: :warning:
 endif::[]
 
-= II SEMANA ACADÊMICA DE SISTEMAS PARA INTERNET - {sigla_evento}
+= {nome_completo_evento}
 
 image::substituir-o-arquivo--folder-geral.jpeg[width=640,height=380,align=center]
 
-A I Semana Acadêmica de Sistemas para Internet - {sigla_evento} acontecerá nos dias {inicio_evento} a {termino_evento}, tendo como tema: **{tema_evento}**.
+A {nome_completo_evento} acontecerá nos dias {inicio_evento} a {termino_evento}, tendo como tema: **{tema_evento}**.
 
 Organizada pela Coordenações dos cursos de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
 
