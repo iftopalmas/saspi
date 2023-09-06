@@ -48,7 +48,7 @@ ifdef::env-github,env-browser[]
 :warning-caption: :warning:
 endif::[]
 
-= I SEMANA ACADÊMICA DE SISTEMAS PARA INTERNET - {sigla_evento}
+= II SEMANA ACADÊMICA DE SISTEMAS PARA INTERNET - {sigla_evento}
 
 image::substituir-o-arquivo--folder-geral.jpeg[width=640,height=380,align=center]
 
