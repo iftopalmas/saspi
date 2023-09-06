@@ -12,7 +12,7 @@
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
 :instagram: https://instagram.com/caspi_ifto
-:site_inscricao: 
+:site_inscricao: https://suap.ifto.edu.br/eventos/inscricao/38/
 :discordJogos: https://discord.gg/nqadaxn3Rz
 :discordDown: https://discord.com/download
 :localiftoauditorio: https://goo.gl/maps/q6ikoPm8pPLBdYRn7
