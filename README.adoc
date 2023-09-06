@@ -8,7 +8,7 @@
 :numero_evento: II
 :sigla_evento: SASPI 2023
 :nome_completo_evento: {numero_evento} Semana Acadêmica de Sistemas para Internet - {sigla_evento}
-:tema_evento: O Mercado de trabalho e as tecnologias emergentes pós pandemia
+:tema_evento: Tecnologia, Agro, Ciência e Comunidade: Novas asas para o futuro
 :contato_comissao: caadalovelace254@gmail.com 
 :contato_comissao2: saspi0101@gmail.com 
 :instagram: https://instagram.com/caspi_ifto
