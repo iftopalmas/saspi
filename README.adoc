@@ -19,13 +19,8 @@
 :localiftobloco4: https://goo.gl/maps/RTasNSZY2Xa46MKB7
 
 // Configurações do site
-:link: rel="stylesheet" type="text/css" href="style.css"
-:script: type="text/javascript" defer src="main.js"
-
 :icons: font
 :allow-uri-read:
-
-
 //caminho padrão para imagens
 :imagesdir: images
 :numbered:
