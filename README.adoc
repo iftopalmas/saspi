@@ -96,6 +96,7 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 |===
 | HORÁRIO | ATIVIDADE | LOCAL
+
 4+|MANHÃ
 | 08:30 às 09:15 | Abertura  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -135,7 +136,7 @@ ANALISE DE DADOS. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIAN
 === Quarta-feira (22/11/2023) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 4+|MANHÃ
 
 | 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
@@ -170,7 +171,7 @@ MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {locali
 === Quinta-feira (23/11/2022) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 
 4+|MANHÃ
 
@@ -200,7 +201,7 @@ MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {locali
 === Sexta-feira (24/11/2022) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 
 4+|MANHÃ
 
