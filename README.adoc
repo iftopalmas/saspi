@@ -108,26 +108,26 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 4+|TARDE
 
-| 14:00 às 15:40 | Palestra: APLICAÇÕES DE TECNOLOGIAS DE REALIDADE VIRTUAL E EXPANDIDA PARA DANÇA, PRESERVAÇÃO HISTÓRICO CULTURAL, MEDICINA E AUDIOVISUAL. Palestrante - ERICK GÓES => 77 - LABTEC.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
+| 14:00 às 15:40 | Palestra: APLICAÇÕES DE TECNOLOGIAS DE REALIDADE VIRTUAL E EXPANDIDA PARA DANÇA, PRESERVAÇÃO HISTÓRICO CULTURAL, MEDICINA E AUDIOVISUAL. Palestrante - ERICK GÓES => 77 - LABTEC. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO.
 
-| 15:50 às 17:30 | GINCANA - L.O.L, AssaultCube, Free-Fire, Tênis de Mesa, Xadrez | {localiftoauditorio}[Local do evento], Local de encontro Auditorio central IFTO-palmas.|
+| 15:50 às 17:30 | GINCANA - L.O.L, AssaultCube, Free-Fire, Tênis de Mesa, Xadrez | {localiftoauditorio}[Local do evento], Local de encontro Auditorio central IFTO-palmas.
 
 4+|NOITE
 
 | 19:00 às 19:45 | Minicurso: minicursos. Palestrante - minicursos.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:00 às 19:45 | Palestra: FUNDAMENTOS DA ENGENHARIA SOCIAL. Palestrante - CASSANDRA AGUIAR. | | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:00 às 19:45 | Palestra: FUNDAMENTOS DA ENGENHARIA SOCIAL. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 19:55 às 20:40 | Minicurso: minicursos. Palestrante - minicursos.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:55 às 20:40 | Palestra: : DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 20:50 às 21:35 | Palestra: LETICIA VIEIRA. Palestrante - LETICIA VIEIRA.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.|
 
 | 19:55 às 21:35 | Minicurso: DE EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 21:45 às 22:30 | Palestra: DESVENDANDO DADOS DA SEGURANÇA PÚBLICA E VIOLÊNCIA COM IA E
-ANALISE DE DADOS. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.|
+ANALISE DE DADOS. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 21:45 às 22:30 | Minicurso: minicursos. Palestrante - minicursos.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
