@@ -134,15 +134,12 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 | HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
 4+|MANHÃ
 
-| 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:30 às 10:10 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
 
 | 08:30 às 09:15 | Minicurso: CONECTA PALMAS (CRIAÇÃO DE ARTIGOS). Palestrante - PROFº PILATTE DA UTPR. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 09:25 às 10:10| Minicurso: SERVIDOR WEB EM DOCKER BASICO. Palestrante - ARINALDO ARAUJO DA SILVA | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 10:20 às 11:05 | Palestra: LIVRE. Palestrante - LIVRE |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-
-| 11:15 às 12:00| Palestra: LIVRE. Palestrante - LIVRE | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 09:25 às 12:00| Minicurso: SERVIDOR WEB EM DOCKER. Palestrante - ARINALDO ARAUJO DA SILVA | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabTec.
 
 4+|TARDE
 
