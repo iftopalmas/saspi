@@ -16,6 +16,7 @@
 :discordJogos: https://discord.gg/nqadaxn3Rz
 :discordDown: https://discord.com/download
 :localiftoauditorio: https://goo.gl/maps/q6ikoPm8pPLBdYRn7
+:localiftomini11: https://maps.app.goo.gl/JQF4auaxmANm1z1x6
 :localiftobloco4: https://goo.gl/maps/RTasNSZY2Xa46MKB7
 
 // Configurações do site
@@ -202,7 +203,11 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 | 08:30 às 09:15 | Palestra: CONECTA PALMAS (PALESTRA DO PRESIDENTE DA FAPT). Palestrante - MARCIO DA SILVEIRA | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 09:25 às 10:10| Palestra(MEETUP): 5G/B5G OPORTUNIDADES E DESAFIOS. Palestrante - DOGLAS CHAGAS | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES | Não será transmitido. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+
+| 09:25 às 10:10| Palestra(MEETUP): 5G/B5G OPORTUNIDADES E DESAFIOS. Palestrante - DOGLAS CHAGAS | Não será transmitido. | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+
+| 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR. | Não será transmitido. | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 | 10:00 às 12:00 | Palestra: CONECTA PALMAS (MESA TEMATICA: ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA). Palestrante - conecta Palmas | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -220,7 +225,7 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 |19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-|20:50 às 21:35 | Palestra: APLICANDO REALIDADE AUMENTADA COM UNITY E VUFORIA: DA TEORIA À PRÁTICA. - CRISTÓVÃO LIBERATO | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
+|19:55 às 20:40 | Palestra: APLICANDO REALIDADE AUMENTADA COM UNITY E VUFORIA: DA TEORIA À PRÁTICA. - CRISTÓVÃO LIBERATO | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
 
 |19:00 às 22:30 | ENCERRAMENTO| Não será transmitido. |{localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
