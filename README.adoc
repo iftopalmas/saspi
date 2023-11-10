@@ -120,11 +120,11 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 | 19:55 às 20:40 | Palestra: : DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 20:50 às 21:35 | Palestra: LETICIA VIEIRA. Palestrante - LETICIA VIEIRA. |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.|
+| 20:50 às 21:35 | Palestra: LETICIA VIEIRA. Palestrante - LETICIA VIEIRA. |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabTec.
 
-| 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS. |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.|
+| 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS. |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |===
 
