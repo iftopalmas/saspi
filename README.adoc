@@ -24,7 +24,6 @@
 :allow-uri-read:
 //caminho padrão para imagens
 :imagesdir: images
-:linkcss: style.css
 :numbered:
 
 //Estilo do Sumário
