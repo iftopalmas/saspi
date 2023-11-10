@@ -49,9 +49,7 @@ ifdef::env-github,env-browser[]
 :note-caption: :paperclip:
 :tip-caption: :bulb:
 :warning-caption: :warning:
-endif::[
-    <link rel="stylesheet" href="style.css">
-]
+endif::[]
 
 = {nome_completo_evento}
 
