@@ -112,9 +112,6 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 |11:15 às 12:00| Palestra: IoT e Blockchain: um impulso para inovar. Valéria Martins da Silva - Valéria Martins da Silva |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 4+|TARDE
-<!--
-| 14:00 às 15:40 | Palestra: APLICAÇÕES DE TECNOLOGIAS DE REALIDADE VIRTUAL E EXPANDIDA PARA DANÇA, PRESERVAÇÃO HISTÓRICO CULTURAL, MEDICINA E AUDIOVISUAL. Palestrante - ERICK GÓES. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
---->
 4+|NOITE
 
 | 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | Não será transmitido. | {localiftoauditorio}[Local do evento], ONLINE.
