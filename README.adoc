@@ -164,7 +164,6 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 20:50 às 21:35 | Palestra:  UTILIZAÇÃO DO CLOUD AWS EM APLICAÇÕES IoT. Palestrante - PROF DR MARCOS ANDRÉ, IFTO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 21:45 às 22:30 | Palestra:  O MUNDO DOS DADOS DAS TECNOLOGIAS NO AGRO. Palestrante - DANILO RIBEIRO BARBACENA.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |===
 
