@@ -1,0 +1,37 @@
+{
+  "name": "landing-page-saspi",
+  "version": "1.0.0",
+  "description": "Landing Page para a Semana Acadêmica de Sistemas para Internet - SASPI. Desenvolvida com Tailwind CSS e Flowbite para uma experiência interativa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run watch:html\" \"npm run watch:css\"",
+    "watch:html": "browser-sync start --server ./landing-page --files './landing-page/**/*' --no-open",
+    "watch:css": "tailwindcss -i ./landing-page/resources/css/input.css -o ./landing-page/resources/css/output.css --watch",
+    "build:css": "tailwindcss -i ./landing-page/resources/css/input.css -o ./landing-page/resources/css/output.css --minify"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "flowbite",
+    "landing",
+    "page",
+    "css",
+    "html",
+    "responsive"
+  ],
+  "author": "https://github.com/iftopalmas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iftopalmas/saspi/issues"
+  },
+  "homepage": "https://github.com/iftopalmas/saspi#readme",
+  "dependencies": {
+    "flowbite": "^2.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "browser-sync": "^2.29.3",
+    "concurrently": "^8.2.2",
+    "tailwindcss": "^3.3.5"
+  }
+}
