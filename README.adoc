@@ -114,7 +114,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 20:50 às 21:35 | Palestra: LETICIA VIEIRA MEETUP. Palestrante - LETICIA VIEIRA.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
+| 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS (Python). Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
 | 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -126,15 +126,13 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 | HORÁRIO | ATIVIDADE | LOCAL
 3+|MANHÃ
 
-| 08:30 às 10:10 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
+| 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
 
 | 08:00 às 12:00 | Minicurso: CONECTA PALMAS (Elaboração de artigo). Palestrante - Profº Drº Luiz Alberto Pilatti da UTFPR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmass.
 
 | 09:25 às 12:00| Minicurso: SERVIDOR WEB EM DOCKER Basico. Palestrante - ARINALDO ARAUJO DA SILVA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
 3+|NOITE
-
-| 18:30 às 19:30 | Palestra ( APRESENTAÇÃO CULTURAL ): CONECTA PALMAS ( COMPOSIÇÃO DA MESA E ABERTURA). Palestrante - CONECTA PALMAS  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
 
@@ -149,13 +147,11 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 3+|MANHÃ
 
-| 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia.
 
 | 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 | 09:25 às 10:10 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-
-| 09:30 às 10:30 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 10:20 às 11:05 | Palestra: Da Tese ao Produto, do Paper ao PIB. Palestrante - Profº Drº Eber Eurípides de Souza do IFTO.  | {localiftoauditorio}[Local do evento], ONLINE.
 
@@ -188,7 +184,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 10:00 às 12:00 | Palestra: CONECTA PALMAS (MESA TEMATICA: ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA). Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 10:00 às 12:00 | Mesa Redonda: CONECTA PALMAS - ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA. Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 3+|NOITE
 
