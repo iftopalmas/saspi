@@ -90,7 +90,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 |===
 | HORÁRIO | ATIVIDADE | LOCAL
-4+|MANHÃ
+3+|MANHÃ
 
 | 08:30 às 09:15 | Abertura | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -100,24 +100,23 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 10:20 às 11:05 | Palestra: CONCURSOS NA ÁREA DE TI. Palestrante - ARNALDO COELHO => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 10:20 às 11:05 | Palestra: Oficina de Criação de Mundos Virtuais e Instalações Artísticas Interativas. Palestrante - Erick Góes => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
+| 10:20 às 11:05 | Palestra: Oficina de Criação de Mundos Virtuais e Instalações Artísticas Interativas. Palestrante - Erick Góes => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
 
 |11:15 às 12:00| Palestra: IoT e Blockchain: um impulso para inovar. Valéria Martins da Silva - Valéria Martins da Silva  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-4+|TARDE
-4+|NOITE
+3+|NOITE
 
-| 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR.  | {localiftoauditorio}[Local do evento], ONLINE.
+| 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], ONLINE.
 
 | 19:55 às 20:40 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:55 às 20:40 | Palestra: : DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:55 às 20:40 | Palestra: : DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 20:50 às 21:35 | Palestra: LETICIA VIEIRA MEETUP. Palestrante - LETICIA VIEIRA.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
+| 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
-| 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |===
 
