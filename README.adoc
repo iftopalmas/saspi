@@ -206,7 +206,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 Faça sua inscrição link:{site_inscricao}[AQUI].
 
-IMPORTANT: A inscrição em um mini-curso não garante a vaga, apenas o credenciamento que será feito por ordem de chegada. Por isso, chegue com antecedência para garantir seu lugar.[color: red]
+IMPORTANT: {color: red}[A inscrição em um mini-curso não garante a vaga, apenas o credenciamento que será feito por ordem de chegada. Por isso, chegue com antecedência para garantir seu lugar.]
 
 NOTE: As inscrições serão realizadas ao decorrer do evento! 
 
