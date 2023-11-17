@@ -248,6 +248,6 @@ Em caso de dúvida, envie e-mail para {contato_comissao2}.
 | Mauro Henrique Lima de Boni | Docente / Membro
 | Ana Paula Alves Guimarães | Docente / Membro
 | Vinícius Oliveira Costa | Docente / Membro
-| Rauner Lucas Alves Amaral | Discente / Membro
+| https://raunerlu.bio.link[Rauner Lucas Alves Amaral] | Discente / Membro
 | Amanda de Souza Araujo | Discente / Membro
 |===
