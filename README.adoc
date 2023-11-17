@@ -137,7 +137,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 4+|NOITE
 
-| 18:30 às 19:30 | Palestra ( APRESENTAÇÃO CULTURAL ): CONECTA PALMAS ( COPOSIÇÃO DA MESA E ABERTURA). Palestrante - CONECTA PALMAS |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 18:30 às 19:30 | Palestra ( APRESENTAÇÃO CULTURAL ): CONECTA PALMAS ( COMPOSIÇÃO DA MESA E ABERTURA). Palestrante - CONECTA PALMAS |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
 
@@ -240,18 +240,14 @@ Em caso de dúvida, envie e-mail para {contato_comissao2}.
 | *Nome*​ | *Função*
 | https://bio.link/manoelcampos[Manoel Campos da Silva Filho] | Docente / Presidente da Comissão Organizadora
 | Aline Reis Figueredo | Discente / Presidente do Centro Acadêmico
-| Ana Paula Alves Guimarães | Docente / Membro
+| Fagno Alves Fonsesa | Discente / Membro
 | Liliane Carvalho Félix | Docente / Membro
+| Francisco Das Chagas | Docente / Membro
+| Claudio de Castro Monteiro | Docente / Membro
 | Marlio Kleber Venancio Gomes | Docente / Membro
 | Mauro Henrique Lima de Boni | Docente / Membro
-| Gerson Pesente Focking | Docente / Membro
-| Simone Dutra Martins Guarda | Docente / Membro
+| Ana Paula Alves Guimarães | Docente / Membro
 | Vinícius Oliveira Costa | Docente / Membro
-| Vinícius de Miranda Rios | Docente / Membro
-| Amanda de Souza Araujo | Discente / Membro
-| Aléxia Lara Freitas | Discente / Membro
-| Dannilo Martins Gonçalves | Discente / Membro
-| Elionay Figueiredo Lima | Discente / Membro
-| Maria Vitoria Braga | Discente / Membro
 | Rauner Lucas Alves Amaral | Discente / Membro
+| Amanda de Souza Araujo | Discente / Membro
 |===
