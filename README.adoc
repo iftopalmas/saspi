@@ -93,17 +93,18 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou presença.
 
+
 === Terça-feira (21/11/2023) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 4+|MANHÃ
 
-| 08:30 às 09:15 | Abertura |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:30 às 09:15 | Abertura | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-|09:25 às 10:10|Palestra: “Tecnologia Sustentável: Sistema de Bombeamento Solar para Irrigação de Plantas em Melario. Palestrante - Vinícius Rios e Manoel Campos | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|09:25 às 10:10|Palestra: “Tecnologia Sustentável: Sistema de Bombeamento Solar para Irrigação de Plantas em Melario. Palestrante - Vinícius Rios e Manoel Campos  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-|09:25 às 10:10|Palestra:  “FOTOGRAFIA DIGITAL: A EVOLUÇÃO TECNOLÓGICA E SEUS IMPACTOS NA FOTOGRAFIA. Palestrante - VIRGINIA LIGIA DE R. OLIVEIRA => SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL (SENAC) | Não será transmitido. | {localiftoauditorio}[Local do evento], Sala de Vídeo da Biblioteca ou LabTec central do IFTO-palmas.
+|09:25 às 10:10|Palestra:  “FOTOGRAFIA DIGITAL: A EVOLUÇÃO TECNOLÓGICA E SEUS IMPACTOS NA FOTOGRAFIA. Palestrante - VIRGINIA LIGIA DE R. OLIVEIRA => SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL (SENAC)  | {localiftoauditorio}[Local do evento], Sala de Vídeo da Biblioteca ou LabTec central do IFTO-palmas.
 
 | 10:20 às 11:05 | Palestra: CONCURSOS NA ÁREA DE TI. Palestrante - ARNALDO COELHO => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -114,15 +115,15 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 4+|TARDE
 4+|NOITE
 
-| 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | Não será transmitido. | {localiftoauditorio}[Local do evento], ONLINE.
+| 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR.  | {localiftoauditorio}[Local do evento], ONLINE.
 
-| 19:55 às 20:40 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:55 às 20:40 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:55 às 20:40 | Palestra: : DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:55 às 20:40 | Palestra: : DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 20:50 às 21:35 | Palestra: LETICIA VIEIRA MEETUP. Palestrante - LETICIA VIEIRA. |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
+| 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS. Palestrante - DR ROGÉRIO NOGUEIRA => UFT.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
 | 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS. |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -131,14 +132,14 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 === Quarta-feira (22/11/2023) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 4+|MANHÃ
 
-| 08:30 às 10:10 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
+| 08:30 às 10:10 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
 
-| 08:00 às 12:00 | Minicurso: CONECTA PALMAS (Elaboração de artigo). Palestrante - Profº Drº Luiz Alberto Pilatti da UTFPR. | Não será transmitido. | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmass.
+| 08:00 às 12:00 | Minicurso: CONECTA PALMAS (Elaboração de artigo). Palestrante - Profº Drº Luiz Alberto Pilatti da UTFPR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmass.
 
-| 09:25 às 12:00| Minicurso: SERVIDOR WEB EM DOCKER Basico. Palestrante - ARINALDO ARAUJO DA SILVA | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
+| 09:25 às 12:00| Minicurso: SERVIDOR WEB EM DOCKER Basico. Palestrante - ARINALDO ARAUJO DA SILVA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
 4+|TARDE
 
@@ -146,7 +147,7 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 
 | 18:30 às 19:30 | Palestra ( APRESENTAÇÃO CULTURAL ): CONECTA PALMAS ( COPOSIÇÃO DA MESA E ABERTURA). Palestrante - CONECTA PALMAS |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS. | Não será transmitido. | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
+| 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
 
 | 19:30 às 21:00 | Palestra: CONECTA PALMAS (POTENCIALIDADES PARA A PRODUÇÃO DA PESQUISA EM PALMAS: CONVERGENCIAS PARA O AVANÇO DO FOMENTO CIENTIFICO LOCAL). Palestrante -  Profº Drº Arquimedes Belo Paiva |Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -155,68 +156,68 @@ IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou
 === Quinta-feira (23/11/2022) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 
 4+|MANHÃ
 
-| 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins. | Não será transmitido. | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+| 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 09:25 às 10:10 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 09:25 às 10:10 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 09:30 às 10:30 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 09:30 às 10:30 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 10:20 às 11:05 | Palestra: Da Tese ao Produto, do Paper ao PIB. Palestrante - Profº Drº Eber Eurípides de Souza do IFTO. | Não será transmitido. | {localiftoauditorio}[Local do evento], ONLINE.
+| 10:20 às 11:05 | Palestra: Da Tese ao Produto, do Paper ao PIB. Palestrante - Profº Drº Eber Eurípides de Souza do IFTO.  | {localiftoauditorio}[Local do evento], ONLINE.
 
-| 11:15 às 12:00 | Palestra: INTELIGENCIA ORGANIZACIONAL E COMPETITIVA NA ÁREA DE GESTÃO DE PROJETOS. Palestrante - TAYSE VIRGULINO RIBEIRO. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 11:15 às 12:00 | Palestra: INTELIGENCIA ORGANIZACIONAL E COMPETITIVA NA ÁREA DE GESTÃO DE PROJETOS. Palestrante - TAYSE VIRGULINO RIBEIRO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 
 4+|TARDE
 
 4+|NOITE
 
-| 19:00 às 19:45 | Palestra: Pilares da Carreira. Palestrante: como trabalhar a empregabilidade e destacar-se no mercado de trabalho. Palestrante - Ana Carla Oliveira | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:00 às 19:45 | Palestra: Pilares da Carreira. Palestrante: como trabalhar a empregabilidade e destacar-se no mercado de trabalho. Palestrante - Ana Carla Oliveira  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:55 às 20:40 | Palestra: MAX-DATA - Gestão Estratégica de Pessoas. Palestrante - Rafael Henrique Amaral Vaz. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 19:55 às 20:40 | Palestra: MAX-DATA - Gestão Estratégica de Pessoas. Palestrante - Rafael Henrique Amaral Vaz.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 20:50 às 21:35 | Palestra:  UTILIZAÇÃO DO CLOUD AWS EM APLICAÇÕES IoT. Palestrante - PROF DR MARCOS ANDRÉ, IFTO. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 20:50 às 21:35 | Palestra:  UTILIZAÇÃO DO CLOUD AWS EM APLICAÇÕES IoT. Palestrante - PROF DR MARCOS ANDRÉ, IFTO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 21:45 às 22:30 | Palestra:  O MUNDO DOS DADOS DAS TECNOLOGIAS NO AGRO. Palestrante - DANILO RIBEIRO BARBACENA. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 21:45 às 22:30 | Palestra:  O MUNDO DOS DADOS DAS TECNOLOGIAS NO AGRO. Palestrante - DANILO RIBEIRO BARBACENA.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |===
 
 === Sexta-feira (24/11/2022) 
 
 |===
-| HORÁRIO | ATIVIDADE | LINK DE TRANSMISSÃO | LOCAL
+| HORÁRIO | ATIVIDADE | LOCAL
 
 4+|MANHÃ
 
-| 08:15 às 09:00 | Palestra: CONECTA PALMAS (Ciência, Tecnologia & Inovação como vetor de desenvolvimento do estado do Tocantins). Palestrante - (PALESTRA DO PRESIDENTE DA FAPT) MARCIO DA SILVEIRA | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:15 às 09:00 | Palestra: CONECTA PALMAS (Ciência, Tecnologia & Inovação como vetor de desenvolvimento do estado do Tocantins). Palestrante - (PALESTRA DO PRESIDENTE DA FAPT) MARCIO DA SILVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES | Não será transmitido. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+| 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES  | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 09:25 às 10:10| Palestra(MEETUP): 5G/B5G OPORTUNIDADES E DESAFIOS. Palestrante - DOGLAS CHAGAS | Não será transmitido. | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+| 09:25 às 10:10| Palestra(MEETUP): 5G/B5G OPORTUNIDADES E DESAFIOS. Palestrante - DOGLAS CHAGAS  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR. | Não será transmitido. | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+| 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 10:00 às 12:00 | Palestra: CONECTA PALMAS (MESA TEMATICA: ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA). Palestrante - conecta Palmas | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 10:00 às 12:00 | Palestra: CONECTA PALMAS (MESA TEMATICA: ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA). Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 4+|TARDE
 
 
 4+|NOITE
 
-|19:00 às 19:45 | Palestra: RECONHECIMENTO FACIAL COM PYTHON. Palestrante - JEFERSON OLIVEIRA | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|19:00 às 19:45 | Palestra: RECONHECIMENTO FACIAL COM PYTHON. Palestrante - JEFERSON OLIVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-|19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-|19:55 às 20:40 | Palestra: APLICANDO REALIDADE AUMENTADA COM UNITY E VUFORIA: DA TEORIA À PRÁTICA. Palestrante - CRISTÓVÃO LIBERATO. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
+|19:55 às 20:40 | Palestra: APLICANDO REALIDADE AUMENTADA COM UNITY E VUFORIA: DA TEORIA À PRÁTICA. Palestrante - CRISTÓVÃO LIBERATO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
 
-|20:50 às 21:35 | Palestra: Aplicações de Tecnologias de Realidade Virtual e Expandida para Dança, Preservação Histórico Cultural, Medicina e Audiovisual. Palestrante - Erick Góes. | Não será transmitido. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
+|20:50 às 21:35 | Palestra: Aplicações de Tecnologias de Realidade Virtual e Expandida para Dança, Preservação Histórico Cultural, Medicina e Audiovisual. Palestrante - Erick Góes.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
 
-|21:45 às 22:30 | ENCERRAMENTO| Não será transmitido. |{localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|21:45 às 22:30 | ENCERRAMENTO |{localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |===
 
