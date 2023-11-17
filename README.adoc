@@ -124,7 +124,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 |===
 | HORÁRIO | ATIVIDADE | LOCAL
-4+|MANHÃ
+3+|MANHÃ
 
 | 08:30 às 10:10 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
 
@@ -132,9 +132,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 09:25 às 12:00| Minicurso: SERVIDOR WEB EM DOCKER Basico. Palestrante - ARINALDO ARAUJO DA SILVA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
-4+|TARDE
-
-4+|NOITE
+3+|NOITE
 
 | 18:30 às 19:30 | Palestra ( APRESENTAÇÃO CULTURAL ): CONECTA PALMAS ( COMPOSIÇÃO DA MESA E ABERTURA). Palestrante - CONECTA PALMAS  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -149,7 +147,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 |===
 | HORÁRIO | ATIVIDADE | LOCAL
 
-4+|MANHÃ
+3+|MANHÃ
 
 | 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -163,10 +161,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 11:15 às 12:00 | Palestra: INTELIGENCIA ORGANIZACIONAL E COMPETITIVA NA ÁREA DE GESTÃO DE PROJETOS. Palestrante - TAYSE VIRGULINO RIBEIRO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-
-4+|TARDE
-
-4+|NOITE
+3+|NOITE
 
 | 19:00 às 19:45 | Palestra: Pilares da Carreira. Palestrante: como trabalhar a empregabilidade e destacar-se no mercado de trabalho. Palestrante - Ana Carla Oliveira  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -183,7 +178,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 |===
 | HORÁRIO | ATIVIDADE | LOCAL
 
-4+|MANHÃ
+3+|MANHÃ
 
 | 08:15 às 09:00 | Palestra: CONECTA PALMAS (Ciência, Tecnologia & Inovação como vetor de desenvolvimento do estado do Tocantins). Palestrante - (PALESTRA DO PRESIDENTE DA FAPT) MARCIO DA SILVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -195,10 +190,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 10:00 às 12:00 | Palestra: CONECTA PALMAS (MESA TEMATICA: ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA). Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-4+|TARDE
-
-
-4+|NOITE
+3+|NOITE
 
 |19:00 às 19:45 | Palestra: RECONHECIMENTO FACIAL COM PYTHON. Palestrante - JEFERSON OLIVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
