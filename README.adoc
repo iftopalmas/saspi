@@ -53,7 +53,7 @@ endif::[]
 
 = {nome_completo_evento}
 
-image::folder-geral.jpg[width=640,height=380,align=center]
+image::SASPI.jpg[width=640,height=380,align=center]
 
 A {nome_completo_evento} acontecerá nos dias {inicio_evento} a {termino_evento}, tendo como tema: **{tema_evento}**.
 
