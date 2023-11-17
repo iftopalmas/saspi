@@ -1,6 +1,6 @@
 // Variáveis com informações sobre o evento
 :youtube: https://youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
-:inicio_inscricao: 21/11/2023
+:inicio_inscricao: 17/11/2023
 :termino_inscricao: 24/11/2023
 :inicio_evento: 21
 :termino_evento: 24 de novembro de 2023
