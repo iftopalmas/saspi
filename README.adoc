@@ -100,7 +100,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 10:20 às 11:05 | Palestra: CONCURSOS NA ÁREA DE TI. Palestrante - ARNALDO COELHO => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 10:20 às 11:05 | Palestra: Oficina de Criação de Mundos Virtuais e Instalações Artísticas Interativas. Palestrante - Erick Góes => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
+| 10:20 às 11:05 | Oficina: Criação de Mundos Virtuais e Instalações Artísticas Interativas. Palestrante - Erick Góes => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
 
 |11:15 às 12:00| Palestra: IoT e Blockchain: um impulso para inovar. Valéria Martins da Silva - Valéria Martins da Silva  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -205,6 +205,8 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 *Período de inscrição*: {inicio_inscricao} a {termino_inscricao}.
 
 Faça sua inscrição link:{site_inscricao}[AQUI].
+
+IMPORTANT: A inscrição em um mini-curso não garante a vaga, apenas o credenciamento que será feito por ordem de chegada. Por isso, chegue com antecedência para garantir seu lugar.[color: red]
 
 NOTE: As inscrições serão realizadas ao decorrer do evento! 
 
