@@ -111,7 +111,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 19:55 às 20:40 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftobiblioteca}[Local do evento], Sala de Vídeo da Biblioteca ou LabTec central do IFTO-palmas.
+| 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS (Python). Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
 
