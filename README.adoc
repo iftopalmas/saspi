@@ -201,7 +201,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 == INSCRIÇÕES
 
-*Período de inscrição*: {inicio_inscricao} a {termino_inscricao}.
+*Período de inscrição*: #{inicio_inscricao}# a #{termino_inscricao}#.
 
 Faça sua inscrição link:{site_inscricao}[AQUI].
 
