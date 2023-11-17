@@ -210,7 +210,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 Faça sua inscrição link:{site_inscricao}[AQUI].
 
-NOTE: As inscricao serão realizadas ao decorrer do evento! 
+NOTE: As inscrições serão realizadas ao decorrer do evento! 
 
 IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
