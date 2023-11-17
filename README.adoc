@@ -1,5 +1,4 @@
 // Variáveis com informações sobre o evento
-:link_programacao: images/programacao.jpeg
 :youtube: https://youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
 :inicio_inscricao: 01/11/2023
 :termino_inscricao: 23/11/2023
@@ -57,7 +56,7 @@ image::SASPI.jpg[width=640,height=380,align=center]
 
 A {nome_completo_evento} acontecerá nos dias {inicio_evento} a {termino_evento}, tendo como tema: **{tema_evento}**.
 
-Organizada pela Coordenações dos cursos de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
+Organizada pela Coordenações dos cursos de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos.   
 
 A semana acadêmica é um evento que possibilita a integração entre pessoas. A troca de informações promovidas pelo evento através da participação de profissionais técnicos, docentes e discentes da área de informática, favorecem de forma significativa a formação do futuro profissional de informática. Acredita-se que por meio de várias perspectivas adquiridas pela experiências dos participantes, é possível que haja um enriquecimento complementar na formação escolar do discente da área de informática.
 
@@ -80,19 +79,12 @@ video::Yh_-Sc1nIkA[youtube,width=640,height=480]
 
 == PROGRAMAÇÃO
 
-Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. link:{link_programacao}[Download da programação.]
+Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos.
 
 - Oferta de palestras com temas atuais e relevantes;
-- Uso de mesa-redonda para promoção de debates;
 - Oferta de minicursos visando o complemento/atualização de currículo;
-- Desafios de programação e momentos de jogos promovendo a integração escolar.
-
-NOTE: https://{youtube}[CANAL YOUTUBE - Semana Acadêmica de Sistemas para Internet - Campus Palmas]
 
 IMPORTANT: O evento acontece presencial, mas será transmitido.
-
-IMPORTANT: Assistir o evento de maneira remota não resultará em certificado ou presença.
-
 
 === Terça-feira (21/11/2023) 
 
