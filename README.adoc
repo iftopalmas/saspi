@@ -1,7 +1,7 @@
 // Variáveis com informações sobre o evento
 :youtube: https://youtube.com/channel/UCQCIMhDJYCUNBGPHqFhQ0xQ
-:inicio_inscricao: 01/11/2023
-:termino_inscricao: 23/11/2023
+:inicio_inscricao: 21/11/2023
+:termino_inscricao: 24/11/2023
 :inicio_evento: 21
 :termino_evento: 24 de novembro de 2023
 :numero_evento: II
@@ -209,6 +209,8 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 *Período de inscrição*: {inicio_inscricao} a {termino_inscricao}.
 
 Faça sua inscrição link:{site_inscricao}[AQUI].
+
+NOTE: As inscricao serão realizadas ao decorrer do evento! 
 
 IMPORTANT: Não serão aceitas inscrições após o dia {termino_inscricao}.
 
