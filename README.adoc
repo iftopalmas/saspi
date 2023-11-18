@@ -148,8 +148,6 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 08:30 às 09:15 | Palestra: Gestão de projetos. Palestrante - Caíque Pereira da Silva. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 00:00 às 00:00 | Palestra: Carreira, o caminho até lá! Palestrante - Caíque Pereira da Silva. | Falta o local
-
 | 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 | 09:25 às 10:10 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
@@ -185,6 +183,8 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 | 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 | 10:00 às 12:00 | Mesa Redonda: CONECTA PALMAS - ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA. Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+
+| 11:15 às 12:00 | Mesa Redonda: Carreira, o caminho até lá! Palestrante - Caíque Pereira da Silva. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 3+|NOITE
 
