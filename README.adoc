@@ -107,7 +107,6 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], ONLINE.
 
-| 19:55 às 20:40 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -147,6 +146,10 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 3+|MANHÃ
 
 | 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia.
+
+| 08:30 às 09:15 | Palestra: Gestão de projetos. Palestrante - Caíque Pereira da Silva. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+
+| 00:00 às 00:00 | Palestra: Carreira, o caminho até lá! Palestrante - Caíque Pereira da Silva. | Falta o local
 
 | 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
