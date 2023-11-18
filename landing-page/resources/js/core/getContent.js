@@ -1,5 +1,5 @@
 import {GITHUB_REPO_URL} from "../consts.js"
-import {renderLoading} from "../sections/loading.js"
+import {renderLoading} from "../components/loading.js"
 
 export const getContent = async () => {
     try {
