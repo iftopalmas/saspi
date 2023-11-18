@@ -107,7 +107,6 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], ONLINE.
 
-
 | 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 20:50 às 21:35 | Palestra: “FOTOGRAFIA DIGITAL: A EVOLUÇÃO TECNOLÓGICA E SEUS IMPACTOS NA FOTOGRAFIA". Palestrante - VIRGINIA LIGIA DE R. OLIVEIRA => SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL (SENAC) | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
@@ -180,6 +179,8 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 | 08:15 às 09:00 | Palestra: CONECTA PALMAS (Ciência, Tecnologia & Inovação como vetor de desenvolvimento do estado do Tocantins). Palestrante - (PALESTRA DO PRESIDENTE DA FAPT) MARCIO DA SILVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES  | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+
+| 09:25 às 10:10 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
