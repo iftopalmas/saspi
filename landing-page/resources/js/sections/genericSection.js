@@ -2,7 +2,7 @@ import {removeLeadingNumbers} from "../core/utils.js";
 import {getAlertFromTable} from "../components/alert.js";
 
 const genericSectionTemplate = data => `
-    <section class="prose lg:prose-xl px-4 lg:px-0 mx-auto my-24">
+    <section id="${data?.selector?.substring(1)}" class="prose lg:prose-xl px-4 lg:px-0 mx-auto py-4">
         <article>
             <h2 class="uppercase">${data.title}</h2>
             ${data.content}
@@ -30,6 +30,7 @@ export const getGenericSection = (html, selector) => {
     }
 
     return genericSectionTemplate({
+        selector,
         title,
         content,
         alerts
