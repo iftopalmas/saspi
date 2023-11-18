@@ -4,7 +4,7 @@ import {getAlertFromTable} from "../components/alert.js";
 const genericSectionTemplate = data => `
     <section class="prose lg:prose-xl px-4 lg:px-0 mx-auto my-24">
         <article>
-            <h2>${data.title}</h2>
+            <h2 class="uppercase">${data.title}</h2>
             ${data.content}
             ${data.alerts}
         </article>
