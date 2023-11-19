@@ -5,7 +5,7 @@ export const getContent = async () => {
     try {
         renderLoading()
 
-        const response = await fetch(GITHUB_REPO_URL)
+        const response = await fetch(GITHUB_REPO_URL, {mode: 'no-cors'})
 
         if (! response.ok) {
             return Promise.reject(Error('Failed to fetch data'))
