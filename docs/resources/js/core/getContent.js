@@ -5,13 +5,13 @@ export const getContent = async () => {
     try {
         renderLoading()
 
-        const response = await fetch(GITHUB_REPO_URL, {mode: 'no-cors'})
+        const response = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(GITHUB_REPO_URL)}`)
 
         if (! response.ok) {
             return Promise.reject(Error('Failed to fetch data'))
         }
 
-        return response.text()
+        return response.json()
     } catch (error) {
         console.error('Error fetching data:', error)
         throw error
