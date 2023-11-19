@@ -1,4 +1,4 @@
-import {removeLeadingNumbers} from "../core/utils.js";
+import {removeLeadingNumbers} from "../core/utils.js"
 
 const eventScheduleSectionTemplate = data => `
     <section>

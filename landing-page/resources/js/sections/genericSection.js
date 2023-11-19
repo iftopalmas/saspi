@@ -1,5 +1,5 @@
-import {removeLeadingNumbers} from "../core/utils.js";
-import {getAlertFromTable} from "../components/alert.js";
+import {removeLeadingNumbers} from "../core/utils.js"
+import {getAlertFromTable} from "../components/alert.js"
 
 const genericSectionTemplate = data => `
     <section id="${data?.selector?.substring(1)}" class="prose lg:prose-xl px-4 lg:px-0 mx-auto py-4">
