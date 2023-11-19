@@ -8,7 +8,7 @@
 node_modules/
 
 # Landing page
-!landing-page/index.html
+!docs/index.html
 
 # IDE
 .idea/

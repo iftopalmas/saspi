@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"npm run watch:html\" \"npm run watch:css\"",
-    "watch:html": "browser-sync start --server ./landing-page --files './landing-page/**/*' --no-open",
-    "watch:css": "tailwindcss -i ./landing-page/resources/css/input.css -o ./landing-page/resources/css/output.css --watch",
-    "build:css": "tailwindcss -i ./landing-page/resources/css/input.css -o ./landing-page/resources/css/output.css --minify"
+    "watch:html": "browser-sync start --server docs --files 'docs/**/*' --no-open",
+    "watch:css": "tailwindcss -i docs/resources/css/input.css -o docs/resources/css/output.css --watch",
+    "build:css": "tailwindcss -i docs/resources/css/input.css -o docs/resources/css/output.css --minify"
   },
   "keywords": [
     "tailwind",
