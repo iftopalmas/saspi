@@ -9,7 +9,7 @@ const introductionTemplate = elements => `
 export const getIntroduction = html => {
     const elements = Array.from(html
         .querySelector('#user-content-preamble')
-        .querySelectorAll('p'));
+        .querySelectorAll('p'))
 
     return introductionTemplate(elements)
 }

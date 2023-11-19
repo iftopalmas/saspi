@@ -1,5 +1,5 @@
-import {getNameInitials, removeLeadingNumbers} from "../core/utils.js";
-import {STUDENTS_ROLE, STUDENTS_ROLE_PLURAL, TEACHERS_ROLE, TEACHERS_ROLE_PLURAL} from "../consts.js";
+import {getNameInitials, removeLeadingNumbers} from "../core/utils.js"
+import {STUDENTS_ROLE, STUDENTS_ROLE_PLURAL, TEACHERS_ROLE, TEACHERS_ROLE_PLURAL} from "../consts.js"
 
 const organizingCommitteeSectionTemplate = data => `
     <section>

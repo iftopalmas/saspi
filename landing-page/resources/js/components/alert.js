@@ -1,4 +1,4 @@
-import {hasSingleEmoji} from "../core/utils.js";
+import {hasSingleEmoji} from "../core/utils.js"
 
 const alertTemplate = data => `
     <div class="p-4 mb-4 text-sm rounded-lg ${data.alertClass}">
