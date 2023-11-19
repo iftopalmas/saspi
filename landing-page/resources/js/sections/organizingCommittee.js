@@ -4,12 +4,12 @@ import {STUDENTS_ROLE, STUDENTS_ROLE_PLURAL, TEACHERS_ROLE, TEACHERS_ROLE_PLURAL
 const organizingCommitteeSectionTemplate = data => `
     <section>
         <article class="prose lg:prose-xl px-4 lg:px-0 mx-auto mt-24">
-            <h2 class="uppercase">${data.title}</h2>
-            ${data.content}
+            <h2 class="uppercase">${data?.title}</h2>
+            ${data?.content}
         </article>
         
-        ${data.teachersTemplate}
-        ${data.studentsTemplate}
+        ${data.teachersTemplate ?? ''}
+        ${data.studentsTemplate ?? ''}
     </section>
 `
 
@@ -21,18 +21,18 @@ const organizingCommitteeTemplate = (title, dataList) => `
             ${dataList.map(data => `
                 <ol class="mt-3 divide-y divider-gray-200">
                     <li>
-                        <a href="${data.link}" class="items-center block p-3 sm:flex hover:bg-gray-100">
+                        <a href="${data?.link}" class="items-center block p-3 sm:flex hover:bg-gray-100">
                             <div class="hidden sm:inline-flex relative items-center justify-center w-12 h-12 mb-3 me-3 sm:mb-0 overflow-hidden bg-gray-200 rounded-full">
                                 <span class="font-medium text-gray-600 uppercase">
-                                    ${getNameInitials(data.name)}
+                                    ${getNameInitials(data?.name)}
                                 </span>
                             </div>
                             <div class="text-gray-600">
                                 <div class="font-medium text-gray-900">
-                                    ${data.name}
+                                    ${data?.name}
                                 </div>
                                 <div class="text-sm font-normal">
-                                    ${data.position}
+                                    ${data?.position}
                                 </div>
                             </div>
                         </a>

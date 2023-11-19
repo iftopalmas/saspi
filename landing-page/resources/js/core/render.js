@@ -3,6 +3,7 @@ import {getHero} from "../sections/hero.js";
 import {getIntroduction} from "../sections/introduction.js";
 import {getGenericSection} from "../sections/genericSection.js";
 import {getOrganizingCommittee} from "../sections/organizingCommittee.js";
+import {getEventSchedule} from "../sections/eventSchedule.js";
 
 export const renderSections = html => {
     const container = document.querySelector(APP_TAG_SELECTOR)
@@ -13,6 +14,7 @@ export const renderSections = html => {
     container.innerHTML += getGenericSection(html, '#user-content-objetivo-geral')
     container.innerHTML += getGenericSection(html, '#user-content-objetivos-específicos')
     container.innerHTML += getGenericSection(html, '#user-content-bem-vindo-ao-ifto-campus-palmas')
+    container.innerHTML += getEventSchedule(html, '#user-content-programação')
     container.innerHTML += getGenericSection(html, '#user-content-inscrições')
     container.innerHTML += getGenericSection(html, '#user-content-certificado')
     container.innerHTML += getOrganizingCommittee(html, '#user-content-comissão-organizadora')

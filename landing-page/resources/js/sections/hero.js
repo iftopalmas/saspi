@@ -8,13 +8,13 @@ const heroTemplate = data => `
             ${data.subtitle}
         </p>
         <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-            <a href="#user-content-inscrições" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300">
+            <a href="#user-content-inscrições" title="Faça sua inscrição" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300">
                 Faça sua inscrição
                 <svg class="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                 </svg>
             </a>
-            <a href="#user-content-certificado" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-neutral-100 rounded-lg border border-gray-300 hover:text-gray-800 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100">
+            <a href="#user-content-certificado" title="Consulte seu certificado" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-neutral-100 rounded-lg border border-gray-300 hover:text-gray-800 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100">
                 <svg class="mr-2 -ml-1 w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 20">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 1v4a1 1 0 0 1-1 1H1m4 6 2 2 4-4m4-8v16a.97.97 0 0 1-.933 1H1.933A.97.97 0 0 1 1 18V5.828a2 2 0 0 1 .586-1.414l2.828-2.828A2 2 0 0 1 5.828 1h8.239A.97.97 0 0 1 15 2Z"/>
                 </svg>
@@ -24,7 +24,7 @@ const heroTemplate = data => `
         <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <span class="font-semibold text-gray-300 uppercase">ORGANIZAÇÃO</span>
             <div class="flex flex-wrap justify-center items-center mt-8 text-gray-300 sm:justify-between">
-                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-50">
+                <a href="http://ifto.edu.br/palmas" title="IFTO campus Palmas" class="mr-5 mb-5 lg:mb-0 hover:text-gray-50">
                     <svg class="h-12" viewBox="0 0 358 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M86.4577 71.7V52.3H90.5795V71.7H86.4577Z" fill="currentColor"/>
                         <path d="M112.898 71.7H107.569L99.1248 57H99.0242C99.2253 59.6 99.3258 61.4 99.3258 62.6V71.7H95.5056V52.3H100.733L109.178 66.9001H109.279C109.178 64.4001 109.077 62.6 109.077 61.5V52.3H112.797L112.898 71.7Z" fill="currentColor"/>
@@ -63,7 +63,7 @@ const heroTemplate = data => `
                         <path d="M178.445 92.9C178.445 93.9 178.043 94.8 177.238 95.3C176.434 95.9 175.328 96.2 173.921 96.2C172.413 96.2 171.206 96 170.402 95.5V93.9C170.905 94.2 171.508 94.4 172.111 94.5C172.714 94.6 173.318 94.7 173.921 94.7C174.826 94.7 175.529 94.6 176.032 94.3C176.535 94 176.736 93.6 176.736 93C176.736 92.6 176.535 92.2 176.132 91.9C175.73 91.6 175.027 91.2 173.921 90.8C172.915 90.4 172.111 90.1 171.709 89.8C171.307 89.5 170.905 89.2 170.704 88.8C170.503 88.4 170.402 88 170.402 87.5C170.402 86.6 170.804 85.9 171.508 85.3C172.212 84.8 173.318 84.5 174.624 84.5C175.831 84.5 177.037 84.7 178.143 85.2L177.54 86.6C176.434 86.1 175.429 85.9 174.423 85.9C173.619 85.9 173.016 86 172.614 86.3C172.212 86.6 172.011 86.9 172.011 87.3C172.011 87.6 172.111 87.9 172.212 88.1C172.413 88.3 172.614 88.5 172.915 88.7C173.217 88.9 173.921 89.2 174.926 89.5C176.233 90 177.138 90.5 177.64 91C178.143 91.5 178.445 92.2 178.445 92.9Z" fill="currentColor"/>
                     </svg>
                 </a>
-                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-50">
+                <a href="http://www.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet" title="Sistemas para Internet - IFTO campus Palmas" class="mr-5 mb-5 lg:mb-0 hover:text-gray-50">
                     <svg class="h-12" viewBox="0 0 358 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M86.4577 71.7V52.3H90.5795V71.7H86.4577Z" fill="currentColor"/>
                         <path d="M112.898 71.7H107.569L99.1248 57H99.0242C99.2253 59.6 99.3258 61.4 99.3258 62.6V71.7H95.5056V52.3H100.733L109.178 66.9001H109.279C109.178 64.4001 109.077 62.6 109.077 61.5V52.3H112.797L112.898 71.7Z" fill="currentColor"/>
@@ -102,7 +102,7 @@ const heroTemplate = data => `
                         <path d="M178.445 92.9C178.445 93.9 178.043 94.8 177.238 95.3C176.434 95.9 175.328 96.2 173.921 96.2C172.413 96.2 171.206 96 170.402 95.5V93.9C170.905 94.2 171.508 94.4 172.111 94.5C172.714 94.6 173.318 94.7 173.921 94.7C174.826 94.7 175.529 94.6 176.032 94.3C176.535 94 176.736 93.6 176.736 93C176.736 92.6 176.535 92.2 176.132 91.9C175.73 91.6 175.027 91.2 173.921 90.8C172.915 90.4 172.111 90.1 171.709 89.8C171.307 89.5 170.905 89.2 170.704 88.8C170.503 88.4 170.402 88 170.402 87.5C170.402 86.6 170.804 85.9 171.508 85.3C172.212 84.8 173.318 84.5 174.624 84.5C175.831 84.5 177.037 84.7 178.143 85.2L177.54 86.6C176.434 86.1 175.429 85.9 174.423 85.9C173.619 85.9 173.016 86 172.614 86.3C172.212 86.6 172.011 86.9 172.011 87.3C172.011 87.6 172.111 87.9 172.212 88.1C172.413 88.3 172.614 88.5 172.915 88.7C173.217 88.9 173.921 89.2 174.926 89.5C176.233 90 177.138 90.5 177.64 91C178.143 91.5 178.445 92.2 178.445 92.9Z" fill="currentColor"/>
                     </svg>
                 </a>
-                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-50">
+                <a href="https://www.instagram.com/caspi_ifto/" title="CASPI - IFTO" class="mr-5 mb-5 lg:mb-0 hover:text-gray-50">
                     <svg class="h-12" viewBox="0 0 358 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M86.4577 71.7V52.3H90.5795V71.7H86.4577Z" fill="currentColor"/>
                         <path d="M112.898 71.7H107.569L99.1248 57H99.0242C99.2253 59.6 99.3258 61.4 99.3258 62.6V71.7H95.5056V52.3H100.733L109.178 66.9001H109.279C109.178 64.4001 109.077 62.6 109.077 61.5V52.3H112.797L112.898 71.7Z" fill="currentColor"/>
