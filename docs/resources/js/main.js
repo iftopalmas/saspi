@@ -1,5 +1,5 @@
 import {getContent} from "./core/getContent.js"
-import {renderError} from "./sections/error.js"
+import {renderError} from "./components/error.js"
 import {renderSections} from "./core/render.js"
 
 getContent()
