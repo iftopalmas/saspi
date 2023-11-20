@@ -174,31 +174,31 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 3+|MANHÃ
 
-| 08:15 às 09:00 | Palestra: CONECTA PALMAS (Ciência, Tecnologia & Inovação como vetor de desenvolvimento do estado do Tocantins). Palestrante - (PALESTRA DO PRESIDENTE DA FAPT) MARCIO DA SILVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 08:15 às 09:00 | Palestra: CONECTA PALMAS (Ciência, Tecnologia & Inovação como vetor de desenvolvimento do estado do Tocantins). Palestrante - (PALESTRA DO PRESIDENTE DA FAPT) MARCIO DA SILVEIRA  | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES  | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+| 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 09:25 às 10:10 | Palestra: 5G/B5G Oportunidades e Desafios. Palestrante - Douglas Chagas da Silva | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
-| 09:25 às 10:10 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 09:25 às 10:10 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM & Adriana Pettengill (Google) | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 | 10:00 às 12:00 | Mesa Redonda: CONECTA PALMAS - ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA. Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 11:15 às 12:00 | Mesa Redonda: Carreira, o caminho até lá! Palestrante - Caíque Pereira da Silva. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+| 11:15 às 12:00 | Mesa Redonda: Carreira, o caminho até lá! Integrantes - Caíque Pereira da Silva,Thainara Carvalho da Silva, David Manoel da Silva Rodrigues, Arthur Machado Guimarães Sampaio Perna. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 3+|NOITE
 
 |19:00 às 19:45 | Palestra: RECONHECIMENTO FACIAL COM PYTHON. Palestrante - JEFERSON OLIVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-|19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia.
 
 |19:55 às 20:40 | Palestra: APLICANDO REALIDADE AUMENTADA COM UNITY E VUFORIA: DA TEORIA À PRÁTICA. Palestrante - CRISTÓVÃO LIBERATO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
 
 |20:50 às 21:35 | Palestra: Aplicações de Tecnologias de Realidade Virtual e Expandida para Dança, Preservação Histórico Cultural, Medicina e Audiovisual. Palestrante - Erick Góes.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
 
-|21:45 às 22:30 | ENCERRAMENTO |{localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|21:45 às 22:30 | ENCERRAMENTO -- Apresentação da peça "O Auto da Vida no Trânsito |{localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |===
 
