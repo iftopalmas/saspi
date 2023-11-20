@@ -105,7 +105,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 3+|NOITE
 
-| 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], ONLINE.
+| 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas (ONLINE).
 
 | 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -152,7 +152,7 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 09:25 às 10:10 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 10:20 às 11:05 | Palestra: Da Tese ao Produto, do Paper ao PIB. Palestrante - Profº Drº Eber Eurípides de Souza do IFTO.  | {localiftoauditorio}[Local do evento], ONLINE.
+| 10:20 às 11:05 | Palestra: Como a tecnologia pode te ajudar a se destacar na busca de emprego. Palestrante - Miriam Aparecida de Goes Sousa - Tech Recruiter | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas (ONLINE).
 
 | 11:15 às 12:00 | Palestra: INTELIGENCIA ORGANIZACIONAL E COMPETITIVA NA ÁREA DE GESTÃO DE PROJETOS. Palestrante - TAYSE VIRGULINO RIBEIRO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
