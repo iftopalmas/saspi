@@ -178,6 +178,8 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES  | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
+| 09:25 às 10:10 | Palestra: 5G/B5G Oportunidades e Desafios. Palestrante - Douglas Chagas da Silva | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+
 | 09:25 às 10:10 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
