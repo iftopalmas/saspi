@@ -199,13 +199,22 @@ Especialista em Linguística Forense pela Unyleya;
 
 | 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 2. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia.
 
+Tecnólogo em Segurança da Informação pela FAM;
+
 | 08:30 às 09:15 | Palestra: Gestão de projetos. Palestrante - Caíque Pereira da Silva. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+
+Especialista em Linguística Forense pela Universidade do Porto (em curso);
 
 | 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 | 09:25 às 10:10 | Palestra: Adaptação Multiprofissional: Ética na Tecnologia, Ameaças e Oportunidades. Palestrante - Adriana e Amanda.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
+Adriana: Especialista em Comportamento Não Verbal e Análise de Credibilidade pela ClueLab/FACSM (em andamento);
+
 | 10:20 às 11:05 | Palestra: Como a tecnologia pode te ajudar a se destacar na busca de emprego. Palestrante - Miriam Aparecida de Goes Sousa - Tech Recruiter | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas (ONLINE).
+
+"Especialista em Recrutamento e Seleção, Headhunter, Tech Recruiter, Redatora. Trabalhei tanto em pequenas empresas quanto e multinacionais e utilizo as melhores práticas de recrutamento.
+Local de trabalho: FEB Informática"
 
 | 11:15 às 12:00 | Palestra: INTELIGENCIA ORGANIZACIONAL E COMPETITIVA NA ÁREA DE GESTÃO DE PROJETOS. Palestrante - TAYSE VIRGULINO RIBEIRO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
