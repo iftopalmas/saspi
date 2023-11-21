@@ -122,11 +122,39 @@ Game designer, Animador 2D/3D, Mestre em Educação pela Universidade Federal do
 
 | 19:00 às 19:45 | Palestra:  ENGENHARIA SOCIAL E PRIVACIDADE. Palestrante - CASSANDRA AGUIAR. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas (ONLINE).
 
+"Graduada em Defesa Cibernética pela FIAP (2020-2021), pós-graduanda e especializando-se em Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais, e, Inteligência Competitiva e Contrainteligência Corporativa pela UnyLeya (2022/2-2024/1).
+
+Analista de Segurança Cibernética especialista em: OSINT como ferramentas de estratégias de combate ao crime cibernético na busca por pessoas desaparecidas e como ferramenta de inteligência competitiva e contrainteligência corporativa.
+
+Atua na educação de crianças, jovens e adultos, desde 1997, ministrando aulas de Língua Inglesa como Segundo Idioma (English as a Second Language - ESL). Trabalhou em vários segmentos educacionais, desde escolas regulares, cursos franqueados e na modalidade in company.
+Local de trabalho: NTT DATA"
+
 | 19:55 às 20:40 | Palestra: DETETIVES DIGITAIS: DA FICÇÃO À REALIDADE. Palestrante - RAUL CANDIDO. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+
+" Fundador da Lobo Inteligência, voluntário WOMCY, Perito em Computação Forense e Linguística Forense associado a APECOF, e membro da Comissão de Direito Digital da 25ª subseção da OAB/MG em Poços de Caldas.
+
+Tecnólogo em Segurança da Informação pela FAM;
+Especialista em Segurança Ofensiva e Inteligência Cibernética pela VINCIT;
+Especialista em Linguística Forense pela Unyleya;
+Especialista em Linguística Forense pela Universidade do Porto (em curso);
+Especialista em Comportamento Não Verbal e Análise de Credibilidade pela ClueLab/FACSM (em andamento);
+Mestrado em Segurança Cibernética e Perícia Digital pela University of Portsmouth (em andamento).
+
+LinkedIn - https://www.linkedin.com/in/raulcandido
+Lattes iD - http://lattes.cnpq.br/5057857676393706"
 
 | 20:50 às 21:35 | Palestra: “FOTOGRAFIA DIGITAL: A EVOLUÇÃO TECNOLÓGICA E SEUS IMPACTOS NA FOTOGRAFIA". Palestrante - VIRGINIA LIGIA DE R. OLIVEIRA => SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL (SENAC) | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
+Local de trabalho: Serviço Nacional de aprendizagem comercial - SENAC
+
+
 | 20:50 às 21:35 | Minicurso: EXPLORAÇÃO DE DADOS COM PANDAS (Python). Palestrante - DR ROGÉRIO NOGUEIRA => UFT. | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
+
+"Sou um pesquisador do Laboratório de Inteligência Artificial (COMAIS) na Universidade Federal do Tocantins (UFT). Minha trajetória acadêmica inclui doutorado e mestrado em Modelagem de Sistemas Computacionais, bem como graduações em Ciências da Computação e Processamento de Dados, além de especialização em Gestão Pública e Agente de Inovação e Difusão de Tecnologia.
+
+Como servidor público federal, acumulei experiência em diversas áreas da gestão. Atuei como Diretor de TI na UFT e no Tribunal de Justiça do Tocantins, além de coordenar sistemas eleitorais e logística no Tribunal Regional Eleitoral. Também desempenhei funções como coordenador técnico e administrativo do Ponto de Presença da Rede Nacional de Ensino e Pesquisa (RNP) no Tocantins.
+
+Atualmente, estou envolvido em projetos de pesquisa como o MinerJus (Classificação de processos judiciais usando IA), 5G + DRONE e AGRICULTURA (detecção de ervas daninhas com geolocalização), 5G IOT LIVESTOCK (detecção de montas e bezerros em rebanhos bovinos), e outros na área de inteligência artificial e análise de dados. Estes projetos visam desenvolver soluções com ênfase em processamento de linguagem natural e visão computacional."
 
 | 21:45 às 22:30 | Palestra: UTILIZANDO A IA PARA RESOLVER PROBLEMAS DE NOSSA SOCIEDADE: UM TSUNAMI DE OPORTUNIDADES. Palestrante - PROF. DR. DIEGO DE CASTRO RODRIGUES => IFTO DIANÓPOLIS. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
