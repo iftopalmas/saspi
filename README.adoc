@@ -95,7 +95,18 @@ IMPORTANT: O evento acontece presencial, mas será transmitido.
 
 | 08:30 às 09:15 | Abertura | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-| 09:25 às 10:10 | Palestra: “Tecnologia Sustentável: Sistema de Bombeamento Solar para Irrigação de Plantas em Melario." Palestrante - Edilanny Soares e Sara Jane Assunção. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+| 09:25 às 10:10 | Palestra: “Tecnologia Sustentável: Sistema de Bombeamento Solar para Irrigação de Plantas em Melario." Palestrante - Edilanny Soares e Sara Jane Assunção. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
+
+Edilanny: Cursando 6 período de engenharia elétrica 
+Técnica em eletrotécnica 
+Técnica em automação 
+Eletricista de sistemas renováveis 
+Atualmente atua em projetos de pesquisa no instituto na área de energia solar fotovoltaica, e sistemas de controle.
+
+Sara: Cursando 6 período de engenharia elétrica 
+Eletricista de sistemas renováveis 
+
+Atualmente atua em projetos de pesquisa no instituto na área de energia solar fotovoltaica, e sistemas de controle."
 
 | 10:20 às 11:05 | Palestra: CONCURSOS NA ÁREA DE TI. Palestrante - ARNALDO COELHO => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
