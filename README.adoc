@@ -240,7 +240,11 @@ Local de trabalho: FEB Informática"
 
 | 08:30 às 09:15 | Palestra: MAX DATA - AUTOMAÇÃO COMERCIAL E TECNOLOGIAS DISRUPTIVAS. Palestrante - JOÃO PAULO MAGALHÃES  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
+Há 16 anos no mercado de tecnologia da informação, inicialmente como Técnico de Informática, onde atuava na manutenção de redes e servidores especificamente para empresas contábeis, precisamente como desenvolvedor Object Pascal com a IDE Delphi, desenvolvimento de sistemas como sistema ERP para gestão de Óticas e sistema ERP para gerenciamento e controle de Cozinhas Industriais. Ao longo desse período fiz diversos cursos e sistemas utilizando PHP e atualmente muito focado em C# com ASP.NET Core. Experiência com Banco de Dados e Modelagem e Levantamento de Requisitos e Desenho de Processos de Negócio.
+
 | 09:25 às 10:10 | Palestra: 5G/B5G Oportunidades e Desafios. Palestrante - Douglas Chagas da Silva | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+
+Graduado em Ciência da Computação pela UFT, Especialista em Telemática pelo IFTO, Mestre em Engenharia Elétrica pela UFMG, Doutor em Eng. da Computação pela USP.
 
 | 09:25 às 10:10 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM & Adriana Pettengill (Google) | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
@@ -249,6 +253,14 @@ Local de trabalho: FEB Informática"
 | 10:00 às 12:00 | Mesa Redonda: CONECTA PALMAS - ORGANIZAÇÃO E MEMORIAS DE ESPAÇOS PEDAGOGICOS NA EDUCAÇÃO PROFICIONAL E TECNOLOGICA. Palestrante - conecta Palmas  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 | 11:15 às 12:00 | Mesa Redonda: Carreira, o caminho até lá! Integrantes - Caíque Pereira da Silva,Thainara Carvalho da Silva, David Manoel da Silva Rodrigues, Arthur Machado Guimarães Sampaio Perna. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
+
+Caíque: Especialista em Linguística Forense pela Universidade do Porto (em curso);
+
+Thainara: Local de trabalho: SECAD
+
+David: "Graduado em Sistemas para Internet pelo Instituto Federal do Tocantins, estou como analista na Gerência de Sistemas da Folha de Pagamento da Secretaria da Administração do Estado do Tocantins, atuando no banco de dados e resolvendo demandas da folha. Estou também como desenvolvedor back-end na CRP Tecnologia, atuando na fábrica de software com Java e Spring. Local de trabalho: Secretaria da Administração do Estado do Tocantins e CRP Tecnologia."
+Arthur: 
+
 
 3+|NOITE
 
