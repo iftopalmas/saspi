@@ -268,9 +268,18 @@ Arthur:
 
 |19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia.
 
+"Acadêmico de Sistemas para Internet no IFTO
+Com Certificações e projetos em Java, Python 3, Django e Web Frontend, com fundamentos em HTML, CSS e JS + 10
+Atuamente trabalhando no Instituto Vinte de Maio - IVM Palmas"
+
 |19:55 às 20:40 | Palestra: APLICANDO REALIDADE AUMENTADA COM UNITY E VUFORIA: DA TEORIA À PRÁTICA. Palestrante - CRISTÓVÃO LIBERATO.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
 
+"Com mais de 3 anos de experiência no mundo dos jogos utilizando Unity, participei do desenvolvimento de projetos para várias instituições como BRK Ambiental, Grupo Promo, Prefeitura de Palmas, Unitins e UFT. Em 2019, conquistei o 1º lugar na fase regional da Game Jam Plus e posteriormente atuei como mentor na I Game Jam de Educação Fiscal do Tocantins. Tive um projeto com RA selecionado pela 11º edição da Campus Mobile, um programa da Instituto Claro em parceria com a USP.
+Atualmente,  trabalho na Gerência de Sistemas da Secretaria de Educação do Estado do Tocantins, além de dedicar grande parte do meu tempo em pesquisa sobre o uso de tecnologias imersivas no ensino de robótica através do IFTO."
+
 |20:50 às 21:35 | Palestra: Aplicações de Tecnologias de Realidade Virtual e Expandida para Dança, Preservação Histórico Cultural, Medicina e Audiovisual. Palestrante - Erick Góes.  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas. 
+
+Game designer, Animador 2D/3D, Mestre em Educação pela Universidade Federal do Tocantins (UFT), Diretor de Tecnologias Educacionais da Secretaria da Educação (SEDUC). Graduado em Processamento de Dados pela Universidade do Tocantins (UNITINS) e pós-graduado em Produção de Softwares com ênfase em Softwares Livres pela Universidade Federal de Lavras (UFLA/MG). Atua na área de formação de professores no uso de tecnologias educacionais e projetos de inovação tecnológica educacional na educação básica. Experiência nas áreas de pesquisa em Aprendizagem Mediada por Games e Intergeracionalidade (Universidade da Maturidade - UMA/UFT), Desenvolvimento de Jogos Digitais, game design, ambientes virtuais de aprendizagem para surdos e animação 2d/3d com software livre
 
 |21:45 às 22:30 | ENCERRAMENTO -- Apresentação da peça "O Auto da Vida no Trânsito |{localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
