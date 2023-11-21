@@ -112,7 +112,9 @@ Atualmente atua em projetos de pesquisa no instituto na área de energia solar f
 
 Arnaldo Junior é um Auditor de Controle Externo especializado na área de Tecnologia da Informação no Tribunal de Contas do Estado do Tocantins. Além de sua atuação profissional, ele compartilha seu conhecimento e experiência no YouTube, onde mantém um canal dedicado a temas relacionados à auditoria, controle externo e tecnologia da informação. Para acessar seus vídeos, você pode visitar www.youtube.com/@ArnaldoJunior.
 
-| 10:20 às 11:05 | Oficina: Criação de Mundos Virtuais e Instalações Artísticas Interativas. Palestrante - Erick Góes => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
+| 10:20 às 11:05 | *CANCELADO*
+
+Oficina: Criação de Mundos Virtuais e Instalações Artísticas Interativas. Palestrante - Erick Góes => MESTRANDO, EX-PROF DO IFTO, AUDITOR DE TI DO TCE-TO | {localiftobloco4}[Local do evento], Bloco 4 do IFTO no LABTEC.
 
 Game designer, Animador 2D/3D, Mestre em Educação pela Universidade Federal do Tocantins (UFT), Diretor de Tecnologias Educacionais da Secretaria da Educação (SEDUC). Graduado em Processamento de Dados pela Universidade do Tocantins (UNITINS) e pós-graduado em Produção de Softwares com ênfase em Softwares Livres pela Universidade Federal de Lavras (UFLA/MG). Atua na área de formação de professores no uso de tecnologias educacionais e projetos de inovação tecnológica educacional na educação básica. Experiência nas áreas de pesquisa em Aprendizagem Mediada por Games e Intergeracionalidade (Universidade da Maturidade - UMA/UFT), Desenvolvimento de Jogos Digitais, game design, ambientes virtuais de aprendizagem para surdos e animação 2d/3d com software livre
 
@@ -168,15 +170,23 @@ Atualmente, estou envolvido em projetos de pesquisa como o MinerJus (Classifica�
 
 | 08:30 às 09:15 | Minicurso: GIT E GITHUB NA PRÁTICA: UMA ABORDAGEM PANORÂMICA. PARTE 1. Palestrante - PROF DRA. LILIANE CARVALHO FÉLIX CAVALCANTE & CHARLES ALBERT MARTINS DOS ANJOS.  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia
 
+CHARLES: Tecnólogo em Segurança da Informação pela FAM;
+
 | 08:00 às 12:00 | Minicurso: CONECTA PALMAS (Elaboração de artigo). Palestrante - Profº Drº Luiz Alberto Pilatti da UTFPR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmass.
 
 | 09:25 às 12:00| Minicurso: SERVIDOR WEB EM DOCKER Basico. Palestrante - ARINALDO ARAUJO DA SILVA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LABTEC.
+
+Especialista em Segurança Ofensiva e Inteligência Cibernética pela VINCIT;
 
 3+|NOITE
 
 | 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
 
+Especialista em Linguística Forense pela Unyleya;
+
 | 19:30 às 21:00 | Palestra: CONECTA PALMAS (POTENCIALIDADES PARA A PRODUÇÃO DA PESQUISA EM PALMAS: CONVERGENCIAS PARA O AVANÇO DO FOMENTO CIENTIFICO LOCAL). Palestrante -  Profº Drº Arquimedes Belo Paiva  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+
+
 
 |===
 
