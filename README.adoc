@@ -263,7 +263,7 @@ Arthur:
 
 3+|NOITE
 
-|19:00 às 19:45 | Palestra: RECONHECIMENTO FACIAL COM PYTHON. Palestrante - JEFERSON OLIVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+|19:00 às 19:45 | Palestra: RECONHECIMENTO FACIAL COM PYTHON e OpenCV. Palestrante - JEFERSON OLIVEIRA  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 |19:00 às 20:40 | Minicurso: DJANGO E PYTHON. Palestrante - HEMERSON ROSA  | {localiftobloco4}[Local do evento], Bloco 4 Do IFTO LabMidia.
 
