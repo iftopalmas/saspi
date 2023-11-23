@@ -181,6 +181,8 @@ Especialista em Segurança Ofensiva e Inteligência Cibernética pela VINCIT;
 
 | 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
 
+Engenheiro de Software com 2 décadas de experiência; Mestre em Engenharia Elétrica pela UnB tendo atuado no desenvolvimento de frameworks para o desenvolvimento de aplicações de TV Digital; Doutorando em Engenharia de Computação pela UBI Portugal, tendo desenvolvido um simulador de computação em nuvem utilizado por universidades e institutos de pesquisa ao redor do mundo; Professor do IFTO desde 2013. Pode ser encontrado nas redes sociais em http://bio.link/manoelcampos        
+
 | 19:30 às 21:00 | Palestra: CONECTA PALMAS (POTENCIALIDADES PARA A PRODUÇÃO DA PESQUISA EM PALMAS: CONVERGENCIAS PARA O AVANÇO DO FOMENTO CIENTIFICO LOCAL). Palestrante -  Profº Drº Arquimedes Belo Paiva  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
 
