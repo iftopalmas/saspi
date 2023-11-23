@@ -181,10 +181,7 @@ Especialista em Segurança Ofensiva e Inteligência Cibernética pela VINCIT;
 
 | 19:00 às 22:30 | Minicurso: VOCÊ NÃO CONHECE O INTELLIJ: UMA VISÃO GERAL DOS PRINCIPAIS RECURSOS E TRUQUES DO MELHOR IDE DA GALÁXIA (COM JAVA). Palestrante - PROF. MANOEL CAMPOS.  | {localiftobloco4}[Local do evento], Bloco 4 do IFTO LABTEC.
 
-Especialista em Linguística Forense pela Unyleya;
-
 | 19:30 às 21:00 | Palestra: CONECTA PALMAS (POTENCIALIDADES PARA A PRODUÇÃO DA PESQUISA EM PALMAS: CONVERGENCIAS PARA O AVANÇO DO FOMENTO CIENTIFICO LOCAL). Palestrante -  Profº Drº Arquimedes Belo Paiva  | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
-
 
 
 |===
@@ -202,7 +199,6 @@ Tecnólogo em Segurança da Informação pela FAM;
 
 | 08:30 às 09:15 | Palestra: Gestão de projetos. Palestrante - Caíque Pereira da Silva. | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
 
-Especialista em Linguística Forense pela Universidade do Porto (em curso);
 
 | 08:30 às 9:30 | Palestra: CONECTA PALMAS (Do Laboratório à Startup). Palestrante - Jeferson Morais da Costa da Unitins.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
@@ -246,6 +242,14 @@ Há 16 anos no mercado de tecnologia da informação, inicialmente como Técnico
 Graduado em Ciência da Computação pela UFT, Especialista em Telemática pelo IFTO, Mestre em Engenharia Elétrica pela UFMG, Doutor em Eng. da Computação pela USP.
 
 | 09:25 às 10:10 | Palestra: GOOGLE CLOUD BOOSTER: ACADEMIA GOOGLE PARA SERVIDORES E ALUNOS. Palestrante - PROF. ME. FERNADO HEBRAIM & Adriana Pettengill (Google) | {localiftoauditorio}[Local do evento], Auditorio central do IFTO-palmas.
+
+Fernando: Professor do IFTO desde 2005, atuando na área de infraestrutura e desenvolvimento.
+Programador de Sistemas no TRE-TO desde 2010, atuando como gestor de Infraestrutura, sendo responsável pelo Datacenter, Virtualização e Hiper Convergência.
+Área de interesse: Process Mining, Inteligência Artificial, Modelagem Computacional e Otimização.
+Projetos de destaque: Implantação do Google Workspace, Implantação do Google Cloud, Participação no projeto de eleição do CAU/BR em 2023 onde votaram mais de 200 mil arquitetos em todo o país no sistema totalmente em nuvem.
+
+Adriana: Uma apaixonada por educação e tecnologia! 
+15 anos de experiência em gestão e implementação de projetos inovadores utilizando tecnologia em escolas públicas e privadas. Iniciei no Google Cloud Learning em Novembro de 2021 como responsável pelos programas de formação profissional para países da América Latina (Argentina, Chile, Colômbia e Uruguai). Em junho de 2022 assumi o programa no Brasil,que tem como missão apoiar o desenvolvimento profissional de alunos para um mundo cloud first,  em parceria com instituições de ensino de todo o Brasil.
 
 | 10:20 às 11:05| Palestra: PALESTRA SEGURANÇA DA INFORMAÇÃO E CIBERSEGURANÇA NO CONTEXTO BRASILEIRO. Palestrante - PROF JONAS DE MACEDO SOUSA JUNIOR.  | {localiftomini11}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
