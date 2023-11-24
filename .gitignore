@@ -3,3 +3,12 @@
 
 # Arquivos do macOS
 .DS_Store
+
+# Dependência JavaScript do projeto
+node_modules/
+
+# Landing page
+!docs/index.html
+
+# IDE
+.idea/
