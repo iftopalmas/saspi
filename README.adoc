@@ -260,9 +260,8 @@ Adriana: Uma apaixonada por educação e tecnologia!
 | 11:15 às 12:00 | Mesa Redonda: Carreira, o caminho até lá! Integrantes - Caíque Pereira da Silva,Thainara Carvalho da Silva, David Manoel da Silva Rodrigues, Arthur Machado Guimarães Sampaio Perna. | {localiftoauditorio}[Local do evento], Mini-Auditorio 11 do IFTO-palmas.
 
 Caíque: Especialista em Linguística Forense pela Universidade do Porto (em curso);
-
-Thainara: Local de trabalho: SECAD
-
+Thomas;
+Christina;
 David: "Graduado em Sistemas para Internet pelo Instituto Federal do Tocantins, estou como analista na Gerência de Sistemas da Folha de Pagamento da Secretaria da Administração do Estado do Tocantins, atuando no banco de dados e resolvendo demandas da folha. Estou também como desenvolvedor back-end na CRP Tecnologia, atuando na fábrica de software com Java e Spring. Local de trabalho: Secretaria da Administração do Estado do Tocantins e CRP Tecnologia."
 Arthur: 
 
